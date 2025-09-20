@@ -1,0 +1,86 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "BuilderDocument",
+        "m_EditorClassIdentifier": "UnityEditor.UIBuilderModule:Unity.UI.Builder:BuilderDocument",
+        "m_SavedBuilderUxmlToThemeStyleSheetList": [],
+        "m_CurrentCanvasTheme": 4,
+        "m_CurrentCanvasThemeStyleSheetReference": {
+            "fileID": -4733365628477956816,
+            "guid": "3545b8a42283f4e899b59d39e08ea005",
+            "type": 3
+        },
+        "m_CodePreviewVisible": true,
+        "m_OpenUXMLFiles": [
+            {
+                "m_OpenUSSFiles": [
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "ea091580d1675426ca15f53af2106072",
+                            "type": 3
+                        },
+                        "m_ContentHash": 1538388493,
+                        "m_UssPreview": "VisualElement {\n}\n\n.Background {\n    flex-grow: 1;\n    background-color: var(--color-principal);\n}\n\n.TopBar {\n    flex-grow: 1;\n    height: 5.02%;\n    max-height: 5.02%;\n    flex-direction: row;\n}\n\n.TopLeft {\n    flex-grow: 1;\n    width: 20%;\n    max-width: 20%;\n    background-color: var(--color-assistant);\n}\n\n.PlayerName {\n    font-size: 28px;\n    -unity-font-style: bold;\n}\n\n.TopCenter {\n    flex-grow: 1;\n    width: 50%;\n    max-width: 50%;\n    background-color: rgb(61, 61, 61);\n}\n\n.Currency {\n    color: rgb(255, 255, 255);\n    font-size: 28px;\n    -unity-text-align: upper-center;\n    -unity-font-style: bold;\n}\n\n.TopRight {\n    flex-grow: 1;\n    background-color: var(--color-assistant);\n}\n\n.DailyReward {\n    font-size: 28px;\n    color: rgb(255, 254, 254);\n    -unity-font-style: bold;\n    -unity-text-align: upper-center;\n}\n\n.CenterDisplay {\n    flex-grow: 1;\n    height: 58.82%;\n    max-height: 58.82%;\n    align-items: center;\n}\n\n.HeroGraphic {\n    flex-grow: 1;\n    width: 92.6%;\n    max-width: 92.6%;\n    height: 72%;\n    max-height: 72%;\n    background-color: rgb(207, 163, 163);\n}\n\n.PlaceGraphicHere {\n    font-size: 72px;\n    -unity-text-align: upper-center;\n}\n\n.EventAnnouncement {\n    -unity-font-style: bold;\n    font-size: 72px;\n}\n\n.MainNavigation {\n    flex-grow: 1;\n    height: 26.12%;\n    max-height: 26.12%;\n    flex-direction: row;\n}\n\n.BottonLeft {\n    flex-grow: 1;\n    width: 33%;\n    max-width: 33.3%;\n    background-color: rgb(191, 191, 191);\n    align-items: center;\n}\n\n.HeroesButton {\n    width: 85%;\n    max-width: 85%;\n    border-top-left-radius: 45px;\n    border-top-right-radius: 45px;\n    border-bottom-right-radius: 45px;\n    border-bottom-left-radius: 45px;\n    background-color: rgb(207, 55, 42);\n    font-size: 48px;\n    -unity-font-style: bold;\n}\n\n.BottomCenter {\n    flex-grow: 1;\n    width: 33.3%;\n    max-width: 33.3%;\n    background-color: rgb(128, 128, 128);\n    align-items: center;\n}\n\n.SummonButton {\n    width: 85%;\n    max-width: 85%;\n    border-top-left-radius: 45px;\n    border-top-right-radius: 45px;\n    border-bottom-right-radius: 45px;\n    border-bottom-left-radius: 45px;\n    background-color: rgb(58, 207, 42);\n    font-size: 48px;\n    -unity-font-style: bold;\n}\n\n.BottomRight {\n    flex-grow: 1;\n    background-color: rgb(235, 235, 235);\n    align-items: center;\n}\n\n.ShopButton {\n    width: 85%;\n    max-width: 85%;\n    border-top-left-radius: 45px;\n    border-top-right-radius: 45px;\n    border-bottom-right-radius: 45px;\n    border-bottom-left-radius: 45px;\n    background-color: rgb(207, 113, 42);\n    font-size: 48px;\n    -unity-font-style: bold;\n}\n\n.UtilityButtons {\n    flex-grow: 1;\n    flex-direction: row;\n}\n\n.SettingsButton {\n    width: 45%;\n    max-width: 45%;\n    border-top-left-radius: 45px;\n    border-top-right-radius: 45px;\n    border-bottom-right-radius: 45px;\n    border-bottom-left-radius: 45px;\n    background-color: var(--color-accent-4);\n    font-size: 48px;\n    -unity-font-style: bold;\n    color: var(--color-accent-5);\n}\n\n.FriendsButtoons {\n    width: 45%;\n    max-width: 45%;\n    border-top-left-radius: 45px;\n    border-top-right-radius: 45px;\n    border-bottom-right-radius: 45px;\n    border-bottom-left-radius: 45px;\n    background-color: var(--color-accent-4);\n    font-size: 48px;\n    -unity-font-style: bold;\n    color: var(--color-accent-1);\n}\n",
+                        "m_OldPath": "Assets/UI Toolkit/Main Screen.uss"
+                    },
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "cedbededc0dd04939a5b5c0e709bcb6c",
+                            "type": 3
+                        },
+                        "m_ContentHash": -1446422818,
+                        "m_UssPreview": ":root {\n    --color-principal: rgb(212, 148, 63);\n    --color-assistant: rgb(75, 127, 131);\n    --color-contrast-1: rgb(153, 77, 33);\n    --color-contrast-2: rgb(56, 74, 82);\n    --color-accent-1: rgb(56, 74, 82);\n    --color-accent-2: rgb(255, 69, 0);\n    --color-accent-3: rgb(192, 192, 192);\n    --color-accent-4: rgb(34, 139, 34);\n    --color-accent-5: rgb(255, 255, 255);\n}\n\nVisualElement {\n}\n",
+                        "m_OldPath": "Assets/UI Toolkit/SiteWideStyle.uss"
+                    }
+                ],
+                "m_OpenendVisualTreeAssetOldPath": "Assets/UI Toolkit/Main Screen.uxml",
+                "m_UxmlPreview": "<ui:UXML xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:ui=\"UnityEngine.UIElements\" xmlns:uie=\"UnityEditor.UIElements\" noNamespaceSchemaLocation=\"../../UIElementsSchema/UIElements.xsd\" editor-extension-mode=\"False\">\n    <Style src=\"project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen\" />\n    <Style src=\"project://database/Assets/UI%20Toolkit/SiteWideStyle.uss?fileID=7433441132597879392&amp;guid=cedbededc0dd04939a5b5c0e709bcb6c&amp;type=3#SiteWideStyle\" />\n    <ui:VisualElement name=\"Background\" class=\"Background\">\n        <ui:VisualElement name=\"TopBar\" class=\"TopBar\">\n            <ui:VisualElement name=\"TopLeft\" class=\"TopLeft\">\n                <ui:Label text=\"Name\" name=\"PlayerName\" class=\"PlayerName\" />\n            </ui:VisualElement>\n            <ui:VisualElement name=\"TopCenter\" class=\"TopCenter\">\n                <ui:Label text=\"Currency\" name=\"Currency\" class=\"Currency\" />\n            </ui:VisualElement>\n            <ui:VisualElement name=\"TopRight\" class=\"TopRight\">\n                <ui:Label text=\"Daily Reward\" name=\"DailyReward\" class=\"DailyReward\" />\n            </ui:VisualElement>\n        </ui:VisualElement>\n        <ui:VisualElement name=\"CenterDisplay\" class=\"CenterDisplay\">\n            <ui:VisualElement name=\"HeroGraphic\" class=\"HeroGraphic\">\n                <ui:Label text=\"Place Graphic Here\" name=\"PlaceGraphicHere\" class=\"PlaceGraphicHere\" />\n            </ui:VisualElement>\n            <ui:Label text=\"Event Announcement \" name=\"EventAnnouncement\" class=\"EventAnnouncement\" />\n        </ui:VisualElement>\n        <ui:VisualElement name=\"MainNavigation\" class=\"MainNavigation\">\n            <ui:VisualElement name=\"BottomLeft\" class=\"BottonLeft\">\n                <ui:Button text=\"Heroes\" name=\"HeroesButton\" parse-escape-sequences=\"true\" class=\"HeroesButton\" />\n            </ui:VisualElement>\n            <ui:VisualElement name=\"BottomCenter\" class=\"BottomCenter\">\n                <ui:Button text=\"Summon\" name=\"SummonButton\" parse-escape-sequences=\"true\" class=\"SummonButton\" />\n            </ui:VisualElement>\n            <ui:VisualElement name=\"BottomRight\" class=\"BottomRight\">\n                <ui:Button text=\"Shop\" name=\"ShopButton\" parse-escape-sequences=\"true\" class=\"ShopButton\" />\n            </ui:VisualElement>\n        </ui:VisualElement>\n        <ui:VisualElement name=\"UtilityButtons\" class=\"UtilityButtons\">\n            <ui:Button text=\"Settings\" name=\"SettingsButton\" parse-escape-sequences=\"true\" class=\"SettingsButton\" />\n            <ui:VisualElement name=\"Space\" style=\"flex-grow: 1;\" />\n            <ui:Button text=\"Friends\" name=\"FriendsButton\" parse-escape-sequences=\"true\" enable-rich-text=\"false\" class=\"FriendsButtoons\" />\n        </ui:VisualElement>\n    </ui:VisualElement>\n</ui:UXML>\n",
+                "m_ContentHash": -1397411174,
+                "m_VisualTreeAssetRef": {
+                    "fileID": 9197481963319205126,
+                    "guid": "eab2e83df2bc540df9a62b4eabb5ea0a",
+                    "type": 3
+                },
+                "m_ActiveStyleSheet": {
+                    "instanceID": 0
+                },
+                "m_Settings": {
+                    "UxmlGuid": "eab2e83df2bc540df9a62b4eabb5ea0a",
+                    "UxmlPath": "Assets/UI Toolkit/Main Screen.uxml",
+                    "CanvasX": 0,
+                    "CanvasY": 0,
+                    "CanvasWidth": 1080,
+                    "CanvasHeight": 1920,
+                    "MatchGameView": false,
+                    "ZoomScale": 0.25,
+                    "PanOffset": {
+                        "x": 80.93215942382813,
+                        "y": 57.395721435546878
+                    },
+                    "ColorModeBackgroundOpacity": 1.0,
+                    "ImageModeCanvasBackgroundOpacity": 1.0,
+                    "CameraModeCanvasBackgroundOpacity": 1.0,
+                    "EnableCanvasBackground": false,
+                    "CanvasBackgroundMode": 0,
+                    "CanvasBackgroundColor": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "CanvasBackgroundImage": {
+                        "instanceID": 0
+                    },
+                    "CanvasBackgroundImageScaleMode": 1,
+                    "CanvasBackgroundCameraName": ""
+                },
+                "m_OpenSubDocumentParentIndex": -1,
+                "m_OpenSubDocumentParentSourceTemplateAssetIndex": -1
+            }
+        ],
+        "m_ActiveOpenUXMLFileIndex": 0
+    }
+}

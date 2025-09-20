@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="OrangeBar" style="flex-grow: 1; height: 5%; max-height: 5%; background-color: rgb(255, 119, 0);" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="Future Multiplayer Screens" name="GroupName" style="font-size: 72px; -unity-font-style: bold;" />
+            <ui:Label text="Login / Account Creation" name="ScreenType" style="font-size: 72px;" />
+            <ui:Label text="For a multiplayer version, players will need a way to create an account and log in. This is where you would connect to a remote server like Supabase to store user data, hero collections, and progression." name="Description" double-click-selects-word="false" style="font-size: 36px; white-space: pre-wrap;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

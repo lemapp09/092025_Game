@@ -1,0 +1,39 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
+    <Style src="project://database/Assets/UI%20Toolkit/SiteWideStyle.uss?fileID=7433441132597879392&amp;guid=cedbededc0dd04939a5b5c0e709bcb6c&amp;type=3#SiteWideStyle" />
+    <ui:VisualElement name="Background" class="Background">
+        <ui:VisualElement name="TopBar" class="TopBar">
+            <ui:VisualElement name="TopLeft" class="TopLeft">
+                <ui:Label text="Name" name="PlayerName" class="PlayerName" />
+            </ui:VisualElement>
+            <ui:VisualElement name="TopCenter" class="TopCenter">
+                <ui:Label text="Currency" name="Currency" class="Currency" />
+            </ui:VisualElement>
+            <ui:VisualElement name="TopRight" class="TopRight">
+                <ui:Label text="Daily Reward" name="DailyReward" class="DailyReward" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="CenterDisplay" class="CenterDisplay">
+            <ui:VisualElement name="HeroGraphic" class="HeroGraphic">
+                <ui:Label text="Place Graphic Here" name="PlaceGraphicHere" class="PlaceGraphicHere" />
+            </ui:VisualElement>
+            <ui:Label text="Event Announcement " name="EventAnnouncement" class="EventAnnouncement" />
+        </ui:VisualElement>
+        <ui:VisualElement name="MainNavigation" class="MainNavigation">
+            <ui:VisualElement name="BottomLeft" class="BottonLeft">
+                <ui:Button text="Heroes" name="HeroesButton" parse-escape-sequences="true" class="HeroesButton" />
+            </ui:VisualElement>
+            <ui:VisualElement name="BottomCenter" class="BottomCenter">
+                <ui:Button text="Summon" name="SummonButton" parse-escape-sequences="true" class="SummonButton" />
+            </ui:VisualElement>
+            <ui:VisualElement name="BottomRight" class="BottomRight">
+                <ui:Button text="Shop" name="ShopButton" parse-escape-sequences="true" class="ShopButton" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="UtilityButtons" class="UtilityButtons">
+            <ui:Button text="Settings" name="SettingsButton" parse-escape-sequences="true" class="SettingsButton" />
+            <ui:VisualElement name="Space" style="flex-grow: 1;" />
+            <ui:Button text="Friends" name="FriendsButton" parse-escape-sequences="true" enable-rich-text="false" class="FriendsButtoons" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

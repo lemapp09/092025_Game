@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638939751740000000
-    m_Hash: 3733510693
+      ticks: 638939846490000000
+    m_Hash: 2568690060
   m_LockFileStatus:
     m_FilePath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638939751740000000
-    m_Hash: 326186739
+      ticks: 638939846490000000
+    m_Hash: 1525265584
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,332 @@ m_LocalPackages:
 m_ProjectPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Packages
 m_EditorVersion: 6000.2.4f1 (17550c9bb584)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.2d.sprite@331abd9a1e2f
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: 331abd9a1e2ff424a1ef2626e16936071ab7ce3d
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.0.0
+    minimumUnityVersion: 2019.2.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.2d.tilemap@ba4a6b72f451
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: ba4a6b72f4518be32ffa911682e3c1f11de50354
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 1.0.0
+    minimumUnityVersion: 2019.2.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.ads@4.12.0
+  testable: 0
+  isDirectDependency: 1
+  version: 4.12.0
+  source: 1
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ads@3bb3d269d51b
+  assetPath: Packages/com.unity.ads
+  name: com.unity.ads
+  displayName: Advertisement Legacy
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: "Connect your game to the Unity Ads Network for iOS and Android to
+    quickly and effectively monetize your games.\n\nNOTE: Unity has joined forces
+    with ironSource and recommends using Unity LevelPlay for ad mediation (instead
+    of this package). \n\nThis package will still be supported but no longer updated.
+    To install Unity LevelPlay, use the Ads Mediation package (available below) or
+    the LevelPlay plugin-in at https://developers.is.com/ironsource-mobile/unity/unity-plugin/.\n\nSupported
+    platforms:\n- Android\n- iOS\n"
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.0.8
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 2.0.0
+    - 2.0.3
+    - 2.0.4
+    - 2.0.7
+    - 2.0.8
+    - 2.3.1
+    - 2.3.2
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.1
+    - 3.2.0
+    - 3.3.0
+    - 3.3.1
+    - 3.4.0
+    - 3.4.1
+    - 3.4.2
+    - 3.4.4
+    - 3.4.5
+    - 3.4.7
+    - 3.4.9
+    - 3.5.0
+    - 3.5.2
+    - 3.6.1
+    - 3.7.0
+    - 3.7.1
+    - 3.7.3
+    - 3.7.5
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.2.1
+    - 4.3.0
+    - 4.4.1
+    - 4.4.2
+    - 4.12.0
+    compatible:
+    - 4.4.2
+    - 4.12.0
+    recommended: 4.12.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - ads
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638568068510000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ads@4.12/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/unity-ads-sdk.git
+    revision: dbc3d4a1b92606adc83b8bc4c82672512154a792
+    path: 
+  unityLifecycle:
+    version: 4.4.2
+    nextVersion: 
+    recommendedVersion: 4.12.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"## **Unity**\n- Added support for the Apple Privacy
+    Manifest update to ensure publisher compliance with the App Store submission
+    requirements.\n- Added Java 8 as a minimum requirement for adding the Unity Ads
+    SDK to your project.\n- Increased banner demand.\n- Improved banner life cycle
+    performance.\n- Reduced network requests.\n- Removed the use of a deprecated
+    openURL method.\n- Fixed an issue with detecting location on certain iOS versions
+    for devices used in China.\n- Fixed multiple bugs and made improvements.","gameService":{"groupName":"Monetization","groupIndex":4,"configurePath":"Project/Services/Ads","genericDashboardUrl":"https://unityads.unity3d.com/help/index","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/monetization/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"},"supportedPlatforms":["Android","iOS"]}'
+  assetStore:
+    productId: 
+  fingerprint: 3bb3d269d51b1ced8f6f203c98bb025578933edd
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 4.4.2
+    minimumUnityVersion: 2021.3.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.ai.navigation@2.0.9
   testable: 0
   isDirectDependency: 1
@@ -149,6 +475,144 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.9
     minimumUnityVersion: 6000.0.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.analytics@3.8.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.8.1
+  source: 1
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.analytics@6cc66d58ac08
+  assetPath: Packages/com.unity.analytics
+  name: com.unity.analytics
+  displayName: Analytics Library
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: The Unity Analytics Library contains the Analytics Event Tracker component,
+    the Data Privacy plug-in, and the Standard Events API.
+  errors: []
+  versions:
+    all:
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.7
+    - 0.0.8
+    - 0.0.9
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 0.0.17
+    - 0.0.19
+    - 2.0.5
+    - 2.0.11
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 3.0.5
+    - 3.0.9
+    - 3.1.1
+    - 3.2.0
+    - 3.2.2
+    - 3.2.3
+    - 3.3.0
+    - 3.3.2-preview
+    - 3.3.2
+    - 3.3.4
+    - 3.3.5
+    - 3.4.0
+    - 3.5.3
+    - 3.6.11
+    - 3.6.12
+    - 3.7.1
+    - 3.8.1
+    compatible:
+    - 3.8.1
+    recommended: 3.8.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.analytics
+    version: 1.0.4
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.analytics
+    version: 6.1.0
+  - name: com.unity.services.core
+    version: 1.14.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - analytics
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637789683740000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+    revision: 5ed31de2d0dd150fe8c907e98fc467da73b4b978
+    path: 
+  unityLifecycle:
+    version: 3.8.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 0
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: 6cc66d58ac08950316d3b86a26c92187aca1ddb0
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 3.8.1
+    minimumUnityVersion: 2019.3.0a1
   compliance:
     status: 0
     violation:
@@ -331,12 +795,12 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.ide.rider@3.0.36
+- packageId: com.unity.ide.rider@3.0.38
   testable: 0
   isDirectDependency: 1
-  version: 3.0.36
+  version: 3.0.38
   source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ide.rider@4d374c7eb6db
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ide.rider@1f60b3138684
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -429,13 +893,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638799562419060000
+  datePublishedTicks: 638938045127600000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: b5315083ab3861d21f6ab2ed0d9514daf04bf208
+    revision: 8a49d81ce92f334a07e3b71a8847b2f60dc12287
     path: 
   unityLifecycle:
     version: 3.0.36
@@ -449,15 +913,15 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"- fix RIDER-124592 Avoid affecting \"Strip Engine Code\"
-    while IL2CPP debug enabled"}'
+  upmReserved: '{"changelog":"- fix a regression, introduced in 3.0.37. New files
+    are not added in the project."}'
   assetStore:
     productId: 
-  fingerprint: 4d374c7eb6db6907c7e6925e3086c3c73f926e13
+  fingerprint: 1f60b3138684c97af67aa8d911b1632ba916d29d
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 3.0.36
-    minimumUnityVersion: 2019.4.6f1
+    minimumUnityVersion: 2021.3.0a1
   compliance:
     status: 0
     violation:
@@ -580,164 +1044,6 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.inputsystem@1.14.2
-  testable: 0
-  isDirectDependency: 1
-  version: 1.14.2
-  source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5
-  assetPath: Packages/com.unity.inputsystem
-  name: com.unity.inputsystem
-  displayName: Input System
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: A new input system which can be used as a more extensible and customizable
-    alternative to Unity's classic input system in UnityEngine.Input.
-  errors: []
-  versions:
-    all:
-    - 0.1.2-preview
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.6-preview
-    - 0.2.8-preview
-    - 0.2.10-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.9.5-preview
-    - 0.9.6-preview
-    - 1.0.0-preview
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.1.0-pre.5
-    - 1.1.0-pre.6
-    - 1.1.0-preview.1
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.1
-    - 1.2.0
-    - 1.3.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 1.5.0
-    - 1.5.1
-    - 1.6.1
-    - 1.6.3
-    - 1.7.0
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.9.0
-    - 1.10.0
-    - 1.11.0
-    - 1.11.1
-    - 1.11.2
-    - 1.12.0
-    - 1.13.0
-    - 1.13.1
-    - 1.14.0
-    - 1.14.1
-    - 1.14.2
-    compatible:
-    - 1.14.2
-    recommended: 1.14.2
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  keywords:
-  - input
-  - events
-  - keyboard
-  - mouse
-  - gamepad
-  - touch
-  - vr
-  - xr
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638900632848680000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.14/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: 027f642a18cfac51abd465bf1e4b777316db0696
-    path: 
-  unityLifecycle:
-    version: 1.14.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed an issue where using Pen devices
-    on Android tablets would result in double clicks for UI interactions. [ISXB-1456](https://issuetracker.unity3d.com/product/unity/issues/guid/ISXB-1456)\n-
-    Fixed an issue preventing an embedded platform from being released. It adds back
-    some `#defines` to `XRSupport` and `InputDeviceCharacteristics`."}'
-  assetStore:
-    productId: 
-  fingerprint: be6c4fd0abf5b9b45f956b97294032a67f3c2f4d
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.14.2
-    minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
 - packageId: com.unity.multiplayer.center@1.0.0
   testable: 0
   isDirectDependency: 1
@@ -834,84 +1140,161 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.render-pipelines.universal@17.2.0
+- packageId: com.unity.purchasing@5.0.1
   testable: 0
   isDirectDependency: 1
-  version: 17.2.0
-  source: 2
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.render-pipelines.universal@a0b8019ed083
-  assetPath: Packages/com.unity.render-pipelines.universal
-  name: com.unity.render-pipelines.universal
-  displayName: Universal Render Pipeline
+  version: 5.0.1
+  source: 1
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.purchasing@821fd0bcef6f
+  assetPath: Packages/com.unity.purchasing
+  name: com.unity.purchasing
+  displayName: In-App Purchasing
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
-    Pipeline, made by Unity. URP provides artist-friendly workflows that let you
-    quickly and easily create optimized graphics across a range of platforms, from
-    mobile to high-end consoles and PCs.
+  description: "Unity In-App Purchasing (IAP) allows you to sell digital content
+    within your application. This package provides a unified API for handling in-app
+    purchases across multiple platforms, including the Apple App Store and Google
+    Play Store. Unity IAP simplifies implementing and managing purchases for different
+    stores.\n\nFeatures:\n\n \u25AA A single API to access all supported stores,
+    making it easier to manage your in-game economy.\n \u25AA Automatic integration
+    with Unity Analytics for monitoring revenue and purchase data across platforms.\n
+    \u25AA Supports iOS, Mac, tvOS, and Google Play.\n \u25AA Client-side receipt
+    validation for Apple Store and Google Play.\n\nTo enable In-App Purchasing, install
+    the package and open the Services window (Window > General > Services).\n\nUpgrade
+    notes:\nThis release is a major update to the IAP package. Review the included
+    sample for a complete example of how to use the new version. Upgrading is recommended
+    to take advantage of the latest improvements and features."
   errors: []
   versions:
     all:
-    - 17.2.0
+    - 0.0.3
+    - 0.0.4
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.0.8
+    - 0.0.9
+    - 0.0.10
+    - 0.0.11
+    - 0.0.12
+    - 0.0.13
+    - 0.0.14
+    - 0.0.15
+    - 0.0.16
+    - 0.0.17
+    - 0.0.18
+    - 0.0.19
+    - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.1
+    - 3.2.2
+    - 3.2.3
+    - 4.0.0
+    - 4.0.3
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 4.2.0-pre.1
+    - 4.2.0-pre.2
+    - 4.2.1
+    - 4.3.0
+    - 4.4.0
+    - 4.4.1
+    - 4.5.0
+    - 4.5.1
+    - 4.5.2
+    - 4.6.0
+    - 4.7.0
+    - 4.8.0
+    - 4.9.2
+    - 4.9.3
+    - 4.9.4
+    - 4.10.0
+    - 4.11.0
+    - 4.12.0
+    - 4.12.1-pre.1
+    - 4.12.1-pre.3
+    - 4.12.1-pre.4
+    - 4.12.1
+    - 4.12.2
+    - 4.13.0
+    - 5.0.0-pre.1
+    - 5.0.0-pre.3
+    - 5.0.0-pre.4
+    - 5.0.0-pre.5
+    - 5.0.0-pre.6
+    - 5.0.0-pre.7
+    - 5.0.0-pre.8
+    - 5.0.0
+    - 5.0.1
     compatible:
-    - 17.2.0
-    recommended: 17.2.0
+    - 4.12.2
+    - 4.13.0
+    - 5.0.0-pre.1
+    - 5.0.0-pre.3
+    - 5.0.0-pre.4
+    - 5.0.0-pre.5
+    - 5.0.0-pre.6
+    - 5.0.0-pre.7
+    - 5.0.0-pre.8
+    - 5.0.0
+    - 5.0.1
+    recommended: 5.0.1
     deprecated: []
   dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.2.0
-  - name: com.unity.shadergraph
-    version: 17.2.0
-  - name: com.unity.render-pipelines.universal-config
-    version: 17.0.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.2.0
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.14.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
   - name: com.unity.ugui
     version: 2.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.collections
-    version: 2.5.7
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.physics
+  - name: com.unity.services.core
+    version: 1.14.0
+  - name: com.unity.modules.androidjni
     version: 1.0.0
-  - name: com.unity.modules.terrain
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
     version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.shadergraph
-    version: 17.2.0
-  - name: com.unity.searcher
-    version: 4.9.3
-  - name: com.unity.render-pipelines.universal-config
-    version: 17.0.3
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   keywords:
-  - graphics
-  - performance
-  - rendering
-  - mobile
-  - render
-  - pipeline
+  - purchasing
+  - iap
+  - unity
   registry:
     id: main
     name: 
@@ -923,22 +1306,22 @@ m_ResolvedPackages:
     compliance:
       status: 0
       violations: []
-  hideInEditor: 1
+  hideInEditor: 0
   entitlements:
-    licensingModel: 0
+    licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
+  datePublishedTicks: 638914872166780000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@5.0/manual/index.html
+  hasRepository: 1
   repository:
-    type: 
-    url: 
-    revision: 
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
+    revision: 4fc0a84d51bc571dde90b12d948ab9a5e5b8f2b3
     path: 
   unityLifecycle:
-    version: 17.2.0
-    nextVersion: 
-    recommendedVersion: 
+    version: 4.12.2
+    nextVersion: 5.0.0-pre.5
+    recommendedVersion: 5.0.0
     isDeprecated: 0
     deprecationMessage: 
     isDiscoverable: 1
@@ -947,14 +1330,19 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: 
+  upmReserved: '{"changelog":"### Changed\n- Updated `com.unity.services.core` dependency
+    to 1.14.0\n\n### Fixed\n- Coded IAP backwards compatibility fixes:\n  - `ProcessPurchase`
+    will be invoked for restored purchases on their first encounter. This brings
+    back the behaviour from IAP 4.13.0.\n  - Apple - Fixed `Product.hasReceipt` and
+    `Product.receipt` falsely returning a receipt for products that were not purchased.","gameService":{"groupName":"Monetize","groupIndex":4,"configurePath":"Project/Services/In-App
+    Purchasing","genericDashboardUrl":"https://dashboard.unity3d.com/","projectDashboardUrl":"https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"}}'
   assetStore:
     productId: 
-  fingerprint: a0b8019ed0832b9073de8417a2f8b7dadb74a915
+  fingerprint: 821fd0bcef6f2bf367100b4263df9fb4c1b213b1
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 17.2.0
-    minimumUnityVersion: 6000.2.0a1
+    minimumPackageVersion: 4.12.2
+    minimumUnityVersion: 2021.3.0a1
   compliance:
     status: 0
     violation:
@@ -1345,82 +1733,83 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.visualscripting@1.9.7
+- packageId: com.unity.xr.legacyinputhelpers@2.1.12
   testable: 0
   isDirectDependency: 1
-  version: 1.9.7
+  version: 2.1.12
   source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.visualscripting@6279e2b7c485
-  assetPath: Packages/com.unity.visualscripting
-  name: com.unity.visualscripting
-  displayName: Visual Scripting
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
   author:
     name: 
     email: 
     url: 
-  category: 
-  type: tool
-  description: 'Visual scripting is a workflow that uses visual, node-based graphs
-    to design behaviors rather than write lines of C# script.
-
-
-    Enabling artists,
-    designers and programmers alike, visual scripting can be used to design final
-    logic, quickly create prototypes, iterate on gameplay and create custom nodes
-    to help streamline collaboration.
-
-
-    Visual scripting is compatible with third-party
-    APIs, including most packages, assets and custom libraries.'
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
   errors: []
   versions:
     all:
-    - 1.5.0
-    - 1.5.1-pre.3
-    - 1.5.1-pre.5
-    - 1.5.1
-    - 1.5.2
-    - 1.6.0-pre.3
-    - 1.6.0
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    - 1.8.0-pre.1
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    - 1.9.2
-    - 1.9.4
-    - 1.9.5
-    - 1.9.6
-    - 1.9.7
-    - 1.9.8
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
     compatible:
-    - 1.9.7
-    - 1.9.8
-    recommended: 1.9.8
-    deprecated:
-    - 1.8.0-pre.1
+    - 2.1.12
+    recommended: 2.1.12
+    deprecated: []
   dependencies:
-  - name: com.unity.ugui
+  - name: com.unity.modules.vr
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
+  - name: com.unity.modules.xr
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
+  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  keywords: []
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
   registry:
     id: main
     name: 
@@ -1436,42 +1825,36 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638835226812630000
-  documentationUrl: 
+  datePublishedTicks: 638738251595540000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 8292335505915a41ec7c5cc8e08ac436e24120a9
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 7750ba101d791f0c673ae87cd654d1ac84f87f24
     path: 
   unityLifecycle:
-    version: 1.9.7
+    version: 2.1.12
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
-    isDiscoverable: 1
+    isDiscoverable: 0
   isDeprecated: 0
   deprecationMessage: 
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed a warning \"Unable to load Unity.Android.Gradle''s
-    referenced assembly NiceIO\" when scanning assemblies. [UVSB-2594](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2594)\n-
-    Fixed error when trying to load fuzzy finder on multi screen setup on Mac. [UVSB-2419](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2419)\n-
-    Fixed the `AOTSafeMode` project setting appearing in the Editor Preferences window.
-    It is now shown in the Project Settings tab for Visual Scripting. [UVSB-2590](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2590)\n-
-    Fixed possible crash on VisionOS. [UVSB-2565](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2565)\n\n###
-    Changed\n- The `AOTSafeMode` project setting has been marked as not visible,
-    it will no longer be included when calling `ConfigurationPanel.GetSearchKeywords`.
-    [UVSB-2590](https://issuetracker.unity3d.com/product/unity/issues/guid/UVSB-2590)"}'
+  upmReserved: '{"changelog":"### Fixed\n- Fixed camera projection type when converting
+    an existing camera to an **XR Rig** to ensure resulting camera is not set to
+    orthographic ([XRLIH-5](https://issuetracker.unity3d.com/product/unity/issues/guid/XRLIH-5))."}'
   assetStore:
     productId: 
-  fingerprint: 6279e2b7c4858e56cca7f367cd38c49ef66778c9
+  fingerprint: b7579e86f3b456c909fda6b875fba7ab1eeb1322
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.9.7
-    minimumUnityVersion: 2021.3.0a1
+    minimumPackageVersion: 2.1.12
+    minimumUnityVersion: 2019.4.0a1
   compliance:
     status: 0
     violation:
@@ -4323,1124 +4706,82 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.render-pipelines.core@17.2.0
+- packageId: com.unity.services.core@1.14.0
   testable: 0
   isDirectDependency: 0
-  version: 17.2.0
-  source: 2
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.render-pipelines.core@e2a954003fc5
-  assetPath: Packages/com.unity.render-pipelines.core
-  name: com.unity.render-pipelines.core
-  displayName: Scriptable Render Pipeline Core
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: SRP Core makes it easier to create or customize a Scriptable Render
-    Pipeline (SRP). SRP Core contains reusable code, including boilerplate code for
-    working with platform-specific graphics APIs, utility functions for common rendering
-    operations, and  shader libraries. The code in SRP Core is use by the High Definition
-    Render Pipeline (HDRP) and Universal Render Pipeline (URP). If you are creating
-    a custom SRP from scratch or customizing a prebuilt SRP, using SRP Core will
-    save you time.
-  errors: []
-  versions:
-    all:
-    - 17.2.0
-    compatible:
-    - 17.2.0
-    recommended: 17.2.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.8.14
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.collections
-    version: 2.4.3
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.5.7
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 17.2.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: e2a954003fc5facc26e2e93997c389ae05beb07b
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 17.2.0
-    minimumUnityVersion: 6000.2.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.shadergraph@17.2.0
-  testable: 0
-  isDirectDependency: 0
-  version: 17.2.0
-  source: 2
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.shadergraph@2872b31a9415
-  assetPath: Packages/com.unity.shadergraph
-  name: com.unity.shadergraph
-  displayName: Shader Graph
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Shader Graph package adds a visual Shader editing tool to Unity.
-    You can use this tool to create Shaders in a visual way instead of writing code.
-    Specific render pipelines can implement specific graph features. Currently, both
-    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
-    Shader Graph.
-  errors: []
-  versions:
-    all:
-    - 17.2.0
-    compatible:
-    - 17.2.0
-    recommended: 17.2.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.2.0
-  - name: com.unity.searcher
-    version: 4.9.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.2.0
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.5.7
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.searcher
-    version: 4.9.3
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 17.2.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: 2872b31a94156f821d0f59ef5b9357e5fabf5d24
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 17.2.0
-    minimumUnityVersion: 6000.2.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.render-pipelines.universal-config@17.0.3
-  testable: 0
-  isDirectDependency: 0
-  version: 17.0.3
-  source: 2
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.render-pipelines.universal-config@8dc1aab4af1d
-  assetPath: Packages/com.unity.render-pipelines.universal-config
-  name: com.unity.render-pipelines.universal-config
-  displayName: Universal Render Pipeline Config
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Configuration files for the Universal Render Pipeline.
-  errors: []
-  versions:
-    all:
-    - 17.0.3
-    compatible:
-    - 17.0.3
-    recommended: 17.0.3
-    deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.0.3
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 17.2.0
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 2.5.7
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 17.0.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 0
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: 8dc1aab4af1d718781689a36ed5231a35ad1a524
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 17.0.3
-    minimumUnityVersion: 6000.0.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.searcher@4.9.3
-  testable: 0
-  isDirectDependency: 0
-  version: 4.9.3
+  version: 1.14.0
   source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.searcher@1e17ce91558d
-  assetPath: Packages/com.unity.searcher
-  name: com.unity.searcher
-  displayName: Searcher
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.services.core@9e81a5e38245
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: General search window for use in the Editor. First target use is for
-    GraphView node search.
+  description: 'This package defines common components used by multiple Game Service
+    packages.
+
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
   errors: []
   versions:
     all:
-    - 4.0.0-preview
-    - 4.0.0
-    - 4.0.7-preview
-    - 4.0.7
-    - 4.0.8-preview
-    - 4.0.9
-    - 4.1.0-preview
-    - 4.1.0
-    - 4.2.0
-    - 4.3.0
-    - 4.3.1
-    - 4.3.2
-    - 4.6.0-preview
-    - 4.7.0-preview
-    - 4.9.1
-    - 4.9.2
-    - 4.9.3
-    compatible:
-    - 4.9.2
-    - 4.9.3
-    recommended: 4.9.3
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - search
-  - searcher
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638731478077990000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.searcher@4.9/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
-    revision: 6fad693b6604ae7175b59ebb4990d9a0b6c1d012
-    path: 
-  unityLifecycle:
-    version: 4.9.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 0
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"- Fixed a bug where spaces are removed when highlighted.\n-
-    Changed VisualSplitter to twoPaneSplitView and updated indentation"}'
-  assetStore:
-    productId: 
-  fingerprint: 1e17ce91558d1d9127554adc03d275f39a7466a2
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 4.9.2
-    minimumUnityVersion: 2019.1.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.burst@1.8.24
-  testable: 0
-  isDirectDependency: 0
-  version: 1.8.24
-  source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.burst@f7a407abf4d5
-  assetPath: Packages/com.unity.burst
-  name: com.unity.burst
-  displayName: Burst
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Burst is a compiler that translates from IL/.NET bytecode to highly
-    optimized native code using LLVM.
-  errors: []
-  versions:
-    all:
-    - 0.2.4-preview.5
-    - 0.2.4-preview.7
-    - 0.2.4-preview.11
-    - 0.2.4-preview.12
-    - 0.2.4-preview.13
-    - 0.2.4-preview.14
-    - 0.2.4-preview.15
-    - 0.2.4-preview.16
-    - 0.2.4-preview.17
-    - 0.2.4-preview.18
-    - 0.2.4-preview.19
-    - 0.2.4-preview.20
-    - 0.2.4-preview.21
-    - 0.2.4-preview.22
-    - 0.2.4-preview.23
-    - 0.2.4-preview.24
-    - 0.2.4-preview.25
-    - 0.2.4-preview.30
-    - 0.2.4-preview.31
-    - 0.2.4-preview.33
-    - 0.2.4-preview.34
-    - 0.2.4-preview.37
-    - 0.2.4-preview.41
-    - 0.2.4-preview.45
-    - 0.2.4-preview.48
-    - 0.2.4-preview.50
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3-preview.3
-    - 1.2.0-preview.1
-    - 1.2.0-preview.5
-    - 1.2.0-preview.6
-    - 1.2.0-preview.8
-    - 1.2.0-preview.9
-    - 1.2.0-preview.10
-    - 1.2.0-preview.11
-    - 1.2.0-preview.12
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
     - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.3.0-preview.1
-    - 1.3.0-preview.2
-    - 1.3.0-preview.3
-    - 1.3.0-preview.4
-    - 1.3.0-preview.5
-    - 1.3.0-preview.6
-    - 1.3.0-preview.7
-    - 1.3.0-preview.8
-    - 1.3.0-preview.9
-    - 1.3.0-preview.10
-    - 1.3.0-preview.11
-    - 1.3.0-preview.12
-    - 1.3.0-preview.13
-    - 1.3.0
     - 1.3.1
     - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.0-pre.1
-    - 1.4.0-preview.1
-    - 1.4.0-preview.2
-    - 1.4.0-preview.3
-    - 1.4.0-preview.4
-    - 1.4.0-preview.5
-    - 1.4.1-pre.1
-    - 1.4.1-pre.2
+    - 1.4.0
     - 1.4.1
     - 1.4.2
     - 1.4.3
-    - 1.4.4-preview.1
-    - 1.4.4-preview.2
-    - 1.4.4
-    - 1.4.5
-    - 1.4.6
-    - 1.4.7
-    - 1.4.8
-    - 1.4.9
-    - 1.4.11
-    - 1.5.0-pre.3
-    - 1.5.0-pre.4
-    - 1.5.0-pre.5
-    - 1.5.0
-    - 1.5.1
     - 1.5.2
-    - 1.5.3
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6-preview.1
-    - 1.5.6
-    - 1.6.0-pre.2
-    - 1.6.0-pre.3
-    - 1.6.0-pre.4
     - 1.6.0
-    - 1.6.1
-    - 1.6.2
-    - 1.6.3
-    - 1.6.4
-    - 1.6.5
-    - 1.6.6
-    - 1.7.0-pre.1
     - 1.7.0
     - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.4
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
     - 1.8.1
     - 1.8.2
-    - 1.8.3
-    - 1.8.4
-    - 1.8.7
-    - 1.8.8
-    - 1.8.9
-    - 1.8.10
-    - 1.8.11
-    - 1.8.12
-    - 1.8.13
-    - 1.8.14
-    - 1.8.15
-    - 1.8.16
-    - 1.8.17
-    - 1.8.18
-    - 1.8.19
-    - 1.8.20
-    - 1.8.21
-    - 1.8.22
-    - 1.8.23
-    - 1.8.24
-    - 1.8.25
-    compatible:
-    - 1.8.24
-    - 1.8.25
-    recommended: 1.8.25
-    deprecated: []
-  dependencies:
-  - name: com.unity.mathematics
-    version: 1.2.1
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638899061085800000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: a51d00bdd6ede2678af40037e722269d09e4d3aa
-    path: 
-  unityLifecycle:
-    version: 1.8.24
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Added\n- Linux/ARM64 support\n- Added Floating
-    Point Mode option to Burst AOT Settings.\n- Added a warning that using processor
-    intrinsics in methods with `FloatMode = Deterministic` requires bit-level equivalent
-    functionality on other target architectures to ensure deterministic results.\n\n###
-    Fixed\n- Fixed a crash that could occur in Burst when Unity is started with the
-    `-disableManagedDebugger` command line argument\n- Fixed an issue where a static
-    field of a large value type could cause an `InterpreterOutOfMemoryException`
-    to be thrown.\n- Fixed Burst Inspector UI elements overlapping and losing interactability
-    when the window size is reduced.\n\n### Changed\n- Optimized zero-initialization
-    of local variables; where possible, zero-initialization is now done at first
-    use rather than in the function prolog"}'
-  assetStore:
-    productId: 
-  fingerprint: f7a407abf4d5abf19ce630824dcde261e02ed97e
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.8.24
-    minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.mathematics@1.3.2
-  testable: 0
-  isDirectDependency: 0
-  version: 1.3.2
-  source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.mathematics@8017b507cc74
-  assetPath: Packages/com.unity.mathematics
-  name: com.unity.mathematics
-  displayName: Mathematics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: assets
-  description: Unity's C# SIMD math library providing vector types and math functions
-    with a shader like syntax.
-  errors: []
-  versions:
-    all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
-    compatible:
-    - 1.3.2
-    recommended: 1.3.2
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638409134840000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: 1695a8503482a3131be78cc26308a93f82c05b04
-    path: 
-  unityLifecycle:
-    version: 1.3.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n* Fixed `math.hash` crash when using IL2CPP
-    builds on Arm 32 bit devices.\n* Fixed obsolete method usage warnings for `MatrixDrawer.CanCacheInspectorGUI`
-    and `PrimitiveVectorDrawer.CanCacheInspectorGUI` in UNITY_2023_2_OR_NEWER.\n*
-    Updated minimum editor version to 2021.3"}'
-  assetStore:
-    productId: 
-  fingerprint: 8017b507cc74bf0a1dd14b18aa860569f807314d
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.3.2
-    minimumUnityVersion: 2021.3.0a1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.collections@2.5.7
-  testable: 0
-  isDirectDependency: 0
-  version: 2.5.7
-  source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.collections@d49facba0036
-  assetPath: Packages/com.unity.collections
-  name: com.unity.collections
-  displayName: Collections
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: A C# collections library providing data structures that can be used
-    in jobs, and optimized by Burst compiler.
-  errors: []
-  versions:
-    all:
-    - 0.0.9-preview.1
-    - 0.0.9-preview.2
-    - 0.0.9-preview.3
-    - 0.0.9-preview.4
-    - 0.0.9-preview.5
-    - 0.0.9-preview.6
-    - 0.0.9-preview.7
-    - 0.0.9-preview.8
-    - 0.0.9-preview.9
-    - 0.0.9-preview.10
-    - 0.0.9-preview.11
-    - 0.0.9-preview.12
-    - 0.0.9-preview.13
-    - 0.0.9-preview.14
-    - 0.0.9-preview.15
-    - 0.0.9-preview.16
-    - 0.0.9-preview.17
-    - 0.0.9-preview.18
-    - 0.0.9-preview.19
-    - 0.0.9-preview.20
-    - 0.1.0-preview
-    - 0.1.1-preview
-    - 0.2.0-preview.13
-    - 0.3.0-preview.0
-    - 0.4.0-preview.6
-    - 0.5.0-preview.9
-    - 0.5.1-preview.11
-    - 0.5.2-preview.8
-    - 0.6.0-preview.9
-    - 0.7.0-preview.2
-    - 0.7.1-preview.3
-    - 0.8.0-preview.5
-    - 0.9.0-preview.5
-    - 0.9.0-preview.6
-    - 0.11.0-preview.17
-    - 0.12.0-preview.13
-    - 0.14.0-preview.16
-    - 0.15.0-preview.21
-    - 0.17.0-preview.18
-    - 1.0.0-pre.3
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.1.0
-    - 1.2.3-pre.1
-    - 1.2.3
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 1.5.1
-    - 1.5.2
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
-    - 2.1.1
-    - 2.1.4
-    - 2.2.0
-    - 2.2.1
-    - 2.3.0-exp.1
-    - 2.3.0-pre.3
-    - 2.4.0-exp.2
-    - 2.4.0-pre.2
-    - 2.4.0-pre.5
-    - 2.4.0
-    - 2.4.1
-    - 2.4.2
-    - 2.4.3
-    - 2.5.0-exp.1
-    - 2.5.0-pre.2
-    - 2.5.1
-    - 2.5.2
-    - 2.5.3
-    - 2.5.7
-    - 2.6.0-exp.2
-    - 2.6.0-pre.3
-    - 2.6.0-pre.4
-    compatible:
-    - 2.5.7
-    - 2.6.0-exp.2
-    - 2.6.0-pre.3
-    - 2.6.0-pre.4
-    recommended: 2.5.7
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.8.19
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.test-framework
-    version: 1.4.6
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.0.3
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  keywords:
-  - dots
-  - collections
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638803020568560000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collections@2.5/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/dots.git
-    revision: 2520fc806449bf4c278c9031eb21f0a6aeccda46
-    path: 
-  unityLifecycle:
-    version: 2.5.7
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 1
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Changed\n\n* Updated the `com.unity.entities` dependency
-    to version `1.3.14`\n* Updated the `com.unity.burst` dependency to version `1.8.19`\n*
-    Updated the `com.unity.nuget.mono-cecil` dependency to version `1.11.5`\n* Updated
-    the `com.unity.test-framework dependency` to version `1.4.6`\n* The minimum supported
-    editor version is now 2022.3.20f1\n\n### Fixed\n\n* UnsafeQueue memory leak due
-    to OnDomainUnload callback being discarded by Burst."}'
-  assetStore:
-    productId: 
-  fingerprint: d49facba0036aa0e1508296262f9d93b44d1ab3b
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 2.5.7
-    minimumUnityVersion: 2022.3.20f1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.rendering.light-transport@1.0.1
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.1
-  source: 2
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.rendering.light-transport@2c9279f90d7c
-  assetPath: Packages/com.unity.rendering.light-transport
-  name: com.unity.rendering.light-transport
-  displayName: Unity Light Transport Library
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Unity Light Transport Library exposes reusable code for writing light
-    transport algorithms such as raytracing or pathtracing
-  errors: []
-  versions:
-    all:
-    - 1.0.1
-    compatible:
-    - 1.0.1
-    recommended: 1.0.1
-    deprecated: []
-  dependencies:
-  - name: com.unity.collections
-    version: 2.2.0
-  - name: com.unity.mathematics
-    version: 1.2.4
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.collections
-    version: 2.5.7
-  - name: com.unity.burst
-    version: 1.8.24
-  - name: com.unity.mathematics
-    version: 1.3.2
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.5
-  - name: com.unity.test-framework.performance
-    version: 3.1.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  keywords:
-  - raytracing
-  - pathtracing
-  - monte-carlo
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-    compliance:
-      status: 0
-      violations: []
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.1
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-    isDiscoverable: 0
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-  fingerprint: 2c9279f90d7c8dfb6e76e3f90b6b3be1cafabfbc
-  editorCompatibility:
-    compatibilityLevel: 0
-    minimumPackageVersion: 1.0.1
-    minimumUnityVersion: 2023.3.0b1
-  compliance:
-    status: 0
-    violation:
-      scopePatternExpression: 
-      message: 
-      readMoreLink: 
-- packageId: com.unity.nuget.mono-cecil@1.11.5
-  testable: 0
-  isDirectDependency: 0
-  version: 1.11.5
-  source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.nuget.mono-cecil@d78732e851eb
-  assetPath: Packages/com.unity.nuget.mono-cecil
-  name: com.unity.nuget.mono-cecil
-  displayName: Mono Cecil
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
-
-
-    This
-    package is intended for internal Unity use only. Most Unity users will be better
-    suited using the existing community tooling.
-
-    To avoid assembly clashes,
-    please use this package if you intend to use Mono.Cecil.'
-  errors: []
-  versions:
-    all:
-    - 0.1.6-preview.2
-    - 1.0.0-preview.1
-    - 1.10.0-preview.1
-    - 1.10.1-preview.1
+    - 1.9.0
     - 1.10.1
-    - 1.10.2
-    - 1.11.4
-    - 1.11.5
+    - 1.11.0
+    - 1.12.0
+    - 1.12.1
+    - 1.12.2
+    - 1.12.4
+    - 1.12.5
+    - 1.13.0
+    - 1.14.0
+    - 1.15.1
+    - 1.15.2
     compatible:
-    - 1.11.5
-    recommended: 1.11.5
+    - 1.14.0
+    - 1.15.1
+    - 1.15.2
+    recommended: 1.15.2
     deprecated: []
-  dependencies: []
-  resolvedDependencies: []
+  dependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
   keywords: []
   registry:
     id: main
@@ -5457,18 +4798,18 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638729992509040000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.nuget.mono-cecil@1.11/manual/index.html
+  datePublishedTicks: 638684041320270000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.14/manual/index.html
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
-    revision: ab40507b5d82f57a4f34b6d0eacca1d6b170341d
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 64962022211031c9e26ceec024d3587ea8e05a17
     path: 
   unityLifecycle:
-    version: 1.11.5
+    version: 1.14.0
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 1.15.1
     isDeprecated: 0
     deprecationMessage: 
     isDiscoverable: 0
@@ -5477,117 +4818,225 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"* This is a verified release of the com.unity.nuget.mono-cecil
-    with embedded dlls of mono-cecil\n* Updated Cecil to 0.11.5 with a grafted patch
-    from this bug fix PR (https://github.com/jbevain/cecil/pull/914)"}'
+  upmReserved: '{"changelog":"### Added\n\n- Added `ServicesInitialization` monobehaviour
+    to manage services in the scene authoring.\n- Added `ServicesBehaviour` abstract
+    monobehaviour as a base for behaviours built on top of services.\n- Added unique
+    identifier for custom service registry creation (`UnityServices.CreateServices`).\n-
+    Added custom services registries dictionary in `UnityServices.Services`.\n- Added
+    `GetIdentifier()` method to `IUnityServices` interface with a default implementation.\n\n###
+    Changed\n\n- Updated the minimum supported Editor version to 2021.3."}'
   assetStore:
     productId: 
-  fingerprint: d78732e851eb42273c8e4d97993d3a94b207e570
+  fingerprint: 9e81a5e382457b799480b311ce51187be99abbbf
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.11.5
-    minimumUnityVersion: 2019.4.0a1
+    minimumPackageVersion: 1.14.0
+    minimumUnityVersion: 2021.3.0a1
   compliance:
     status: 0
     violation:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-- packageId: com.unity.test-framework.performance@3.1.0
+- packageId: com.unity.services.analytics@6.1.0
   testable: 0
   isDirectDependency: 0
-  version: 3.1.0
+  version: 6.1.0
   source: 1
-  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.test-framework.performance@92d1d09a72ed
-  assetPath: Packages/com.unity.test-framework.performance
-  name: com.unity.test-framework.performance
-  displayName: Performance testing API
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.services.analytics@10a9ca5d5622
+  assetPath: Packages/com.unity.services.analytics
+  name: com.unity.services.analytics
+  displayName: Analytics
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: Package that extends Unity Test Framework package. Adds performance
-    testing capabilities and collects configuration metadata.
+  description: The Unity Analytics package automatically collects core events and
+    user properties when someone uses your game or application, and enables you to
+    track specific in-game actions your user performs by defining custom events.
+    The data collected from this package is surfaced in the Unity dashboard where
+    you can use it to gather user insights, segment your player base and make informed
+    decisions around the optimization of your game.
   errors: []
   versions:
     all:
-    - 0.1.27-preview
-    - 0.1.29-preview
-    - 0.1.31-preview
-    - 0.1.33-preview
-    - 0.1.34-preview
-    - 0.1.36-preview
-    - 0.1.37-preview
-    - 0.1.39-preview
-    - 0.1.40-preview
-    - 0.1.41-preview
-    - 0.1.42-preview
-    - 0.1.44-preview
-    - 0.1.45-preview
-    - 0.1.47-preview
-    - 0.1.48-preview
-    - 0.1.49-preview
-    - 0.1.50-preview
-    - 1.0.4-preview
-    - 1.0.6-preview
-    - 1.0.9-preview
-    - 1.1.2-preview
-    - 1.2.0-preview
-    - 1.2.1-preview
-    - 1.2.3-preview
-    - 1.2.5-preview
-    - 1.2.6-preview
-    - 1.3.0-preview
-    - 1.3.1-preview
-    - 1.3.2-preview
-    - 1.3.3-preview
-    - 2.0.1-preview
-    - 2.0.2-preview
-    - 2.0.3-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 2.0.9-preview
-    - 2.1.0-preview
-    - 2.2.0-preview
-    - 2.3.1-preview
-    - 2.4.1-preview
-    - 2.5.1-preview
-    - 2.6.0-preview
-    - 2.7.0-preview
-    - 2.8.0-preview
-    - 2.8.1-preview
-    - 3.0.0-pre.1
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 2.0.7-pre.4
+    - 2.0.7-pre.6
+    - 2.0.7-pre.7
     - 3.0.0-pre.2
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.4.0
+    - 4.4.1
+    - 4.4.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.1.0
+    - 5.1.1
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.1.0
+    - 6.1.1
+    compatible:
+    - 6.1.0
+    - 6.1.1
+    recommended: 6.1.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.14.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638865241437490000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@6.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 356d6526df4ad57bf4f39183e900f575cee0ed53
+    path: 
+  unityLifecycle:
+    version: 6.1.0
+    nextVersion: 
+    recommendedVersion: 6.1.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Added\n\n* Support for the Developer Data framework
+    in Unity 6.2 and above\n  * This supersedes the StartDataCollection and StopDataCollection
+    methods, which are deprecated in Unity 6.2 and above (they are not deprecated
+    in earlier editor versions that do not have the new EndUserConsent APIs)\n  *
+    In order to start and stop data collection, you must now use EndUserConsent.SetConsentState(...)
+    to grant or deny consent for AnalyticsIntent\n  * In order to request data deletion,
+    you must still use the SDK''s RequestDataDeletion method, but you must first
+    explicitly deny consent using the EndUserConsent API\n  * If consent has already
+    been granted, data collection will start automatically during UnityServices.InitializeAsync().
+    Otherwise, data collection will start when consent is granted\n  * When you start
+    using the EndUserConsent API, the SDK will throw exceptions if you attempt to
+    use methods from the original workflow. The two approaches cannot be mixed\n 
+    * Please see the migration guide for more information: https://docs.unity.com/ugs/en-us/manual/analytics/manual/sdk61-migration-guide\n\n###
+    Fixed\n\n* Updated the Debug Panel to use a new UIToolkit method in Unity 6.2
+    and above to prevent a deprecation warning\n* The two acquisitionSource event
+    buttons in the Standard Events sample now call the correct methods","gameService":{"configurePath":"Project/Services/Analytics
+    - Gaming Services","genericDashboardUrl":"https://cloud.unity.com/analytics","projectDashboardUrl":"https://cloud.unity.com/home/organizations/{0}/projects/{1}/environments/default/analytics/v2/about","projectDashboardUrlType":"OrganizationKeyAndProjectGuid"}}'
+  assetStore:
+    productId: 
+  fingerprint: 10a9ca5d56226d26b71614c3ee36a91aaa253b96
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 6.1.0
+    minimumUnityVersion: 2021.3.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.1
+  source: 1
+  resolvedPath: /Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@74deb55db2a0
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
     - 3.0.1
     - 3.0.2
-    - 3.0.3
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     compatible:
-    - 3.1.0
-    - 3.2.0
-    recommended: 3.1.0
+    - 3.2.1
+    recommended: 3.2.1
     deprecated: []
-  dependencies:
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.test-framework
-    version: 1.5.1
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - performance
-  - test
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
   registry:
     id: main
     name: 
@@ -5603,37 +5052,35 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638792643567670000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.1/manual/index.html
+  datePublishedTicks: 638186318800000000
+  documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.test-framework.performance.git
-    revision: 6126c0ee357019ed762100ffeca520029274e869
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
     path: 
   unityLifecycle:
-    version: 3.1.0
+    version: 3.2.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
-    isDiscoverable: 1
+    isDiscoverable: 0
   isDeprecated: 0
   deprecationMessage: 
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Added\n- Added an optional command-line argument
-    \"perfTestResults\" to control the target location of performance test run results
-    file.\n### Fixed\n- Warmup cycles no longer record GC measurements.\n- Setup
-    and Cleanup cycles no longer contribute to GC measurements."}'
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
   assetStore:
     productId: 
-  fingerprint: 92d1d09a72ed696fa23fd76c675b29d211664b50
+  fingerprint: 74deb55db2a0c29ddfda576608bcb86abbd13ee6
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 3.1.0
-    minimumUnityVersion: 2020.3.0a1
+    minimumPackageVersion: 3.2.1
+    minimumUnityVersion: 2018.4.0a1
   compliance:
     status: 0
     violation:

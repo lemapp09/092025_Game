@@ -1,0 +1,33 @@
+/* Root element to define custom properties */
+:root {
+  /* Principal Color: Lionheart Gold (Warm Gold) */
+  --color-principal: #d4943f; /* HSV: (35, 70, 83) */
+  
+  /* Assistant Color: Warden's Steel (Cool Teal) */
+  --color-assistant: #4b7f83; /* HSV: (184, 43, 51) */
+  
+  /* Contrast Color 1: Ember Clay (Deep Rust) */
+  --color-contrast-1: #994d21; /* HSV: (20, 78, 60) */
+  
+  /* Contrast Color 2: Obsidian Grey (Dark Slate) */
+  --color-contrast-2: #384a52; /* HSV: (200, 30, 32) */
+  
+  /* Accent Color 1: Arcane Glow (Bright Blue) */
+  --color-accent-1: #384a52; /* HSV: (210, 88, 100) */
+  
+  /* Accent Color 2: Battle Scars (Fiery Red) */
+  --color-accent-2: #ff4500; /* HSV: (16, 100, 100) */
+  
+  /* Accent Color 3: Rune Stone (Light Grey) */
+  --color-accent-3: #c0c0c0; /* HSV: (0, 0, 75) */
+  
+  /* Accent Color 4: Woodland Guardian (Forest Green) */
+  --color-accent-4: #228b22; /* HSV: (120, 75, 55) */
+  
+  /* Accent Color 5: Divine Light (Pure White) */
+  --color-accent-5: #ffffff; /* HSV: (0, 0, 100) */
+  
+}
+
+VisualElement {}
+

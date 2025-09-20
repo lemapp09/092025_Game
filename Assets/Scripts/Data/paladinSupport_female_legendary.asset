@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: paladinSupport_female_legendary
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: The Archon Thalia
+  characterImage: {fileID: 21300000, guid: 9958e4595b9904be7a0fd0175f8a6a7b, type: 3}
+  gender: 1
+  role: 3
+  rarity: 4
+  baseHealth: 1800
+  baseAttack: 150
+  baseDefense: 150
+  characterDescription: "    Thalia is a celestial strategist, said to be a chosen
+    one of the gods. Her gaze can see all possibilities on the battlefield, and her
+    every command is a guaranteed step toward victory. She doesn't simply support
+    her allies\u2014she elevates them to a new plane of power, making them truly
+    legendary in their own right.\n\n"

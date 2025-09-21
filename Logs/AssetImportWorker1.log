@@ -1235,3 +1235,163 @@ Received Import Request.
 Start importing Assets/Texture/Character_Female/Female_49.jpg using Guid(c4a54aae96a3746289d1bf2f67043e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cd7ebe0e6ec49cc13019eacb6319c50') in 0.004887458 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
+========================================================================
+Received Import Request.
+  Time since last request: 321.658984 seconds.
+  path: Assets/Scripts/Data/paladinDamageDealer_female_legendary.asset
+  artifactKey: Guid(f52a977b02ade4cb38c78df5b0bcae2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinDamageDealer_female_legendary.asset using Guid(f52a977b02ade4cb38c78df5b0bcae2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a192afd67b8ec2d16ebddeeeb75f9ba9') in 0.0008955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Scripts/Data/paladinHealer_female_common.asset
+  artifactKey: Guid(6e732fd620bd34c48a388ef169a94d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_female_common.asset using Guid(6e732fd620bd34c48a388ef169a94d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2d01974974c3eb8ba7bee3b52e8d2f8') in 0.000675375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Scripts/Data/paladinHealer_female_uncommon.asset
+  artifactKey: Guid(5c98facb9ffb24244b2e09c51f41e548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_female_uncommon.asset using Guid(5c98facb9ffb24244b2e09c51f41e548) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f03bc2041ac7330482f6a88cb5a7130') in 0.000403042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Scripts/Data/paladinHealer_male_epic.asset
+  artifactKey: Guid(c34e0bba050a04fc89d29b0822848285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_male_epic.asset using Guid(c34e0bba050a04fc89d29b0822848285) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d29eadced12f8a3a9866eb4b2b6b348') in 0.000578666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Scripts/Data/paladinHealer_female_epic.asset
+  artifactKey: Guid(8d2fb15d063d84c008374fb25cb0d6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_female_epic.asset using Guid(8d2fb15d063d84c008374fb25cb0d6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a14a5ef7b669d657783ddfd65545cf7f') in 0.000461583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Scripts/Data/paladinSupport_female_uncommon.asset
+  artifactKey: Guid(3b1408999b5a340b69bb3b253e98c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinSupport_female_uncommon.asset using Guid(3b1408999b5a340b69bb3b253e98c11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a5ce16b1abec474260d849ced01c0a5') in 0.000407125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Scripts/Data/paladinTank_female_epic.asset
+  artifactKey: Guid(f7fcd59eaf71e4f40b41e1144609c970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_female_epic.asset using Guid(f7fcd59eaf71e4f40b41e1144609c970) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b3b261ea3007451a45ee76c0148b33c') in 0.000359125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Scripts/Data/paladinHealer_male_rare.asset
+  artifactKey: Guid(7381ac07bee224b9090a6c1460041aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_male_rare.asset using Guid(7381ac07bee224b9090a6c1460041aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a1219861604423d21703d22c53577504') in 0.0003465 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Scripts/Data/paladinSupport_female_common.asset
+  artifactKey: Guid(5685cdf6741f2423a8a063f27571105c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinSupport_female_common.asset using Guid(5685cdf6741f2423a8a063f27571105c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03148b26cd4cea1b54e381e8bf8b6a45') in 0.000362292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Scripts/Data/paladinTank_male_legendary.asset
+  artifactKey: Guid(7f80347a2174b4fd7928a5c4cac58cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_male_legendary.asset using Guid(7f80347a2174b4fd7928a5c4cac58cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b30ba3c75c7344d81358d771430068e4') in 0.000570083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/Data/paladinTank_male_uncommon.asset
+  artifactKey: Guid(6a81d7f9ea844434d868cd32b455957d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_male_uncommon.asset using Guid(6a81d7f9ea844434d868cd32b455957d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c55e00aa4341f77ffdad8e9091bb01ce') in 0.000376417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Scripts/Data/paladinDamageDealer_male_epic.asset
+  artifactKey: Guid(afc22b8bb70374e6da4d4a01af96bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinDamageDealer_male_epic.asset using Guid(afc22b8bb70374e6da4d4a01af96bff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fb6c5adfe700669e05d7e0f6f313a38') in 0.000404583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Scripts/Data/paladinTank_male_mystic.asset
+  artifactKey: Guid(5e387c447322644c1a6c18534920bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_male_mystic.asset using Guid(5e387c447322644c1a6c18534920bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '912bcb1a67c4fa412fa7e69d8de403da') in 0.00040325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Scripts/Data/paladinDamageDealer_female_rare.asset
+  artifactKey: Guid(8bb6689fc759c4eed9a4fcbc284d300d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinDamageDealer_female_rare.asset using Guid(8bb6689fc759c4eed9a4fcbc284d300d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10dbfd82487ba8908bf4d4b585424488') in 0.00051175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/Data/paladinSupport_male_common.asset
+  artifactKey: Guid(b5d6bedc874a34a81b45761a937638cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinSupport_male_common.asset using Guid(b5d6bedc874a34a81b45761a937638cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7efa5fd8155cad0676dd6f227847ff96') in 0.000394417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Scripts/Data/paladinSupport_male_rare.asset
+  artifactKey: Guid(b9c694ef509cd4adb8c6fdb8ce28e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinSupport_male_rare.asset using Guid(b9c694ef509cd4adb8c6fdb8ce28e09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50d0d474c51192af3303300b787891b8') in 0.000361208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Scripts/Data/paladinTank_male_rare.asset
+  artifactKey: Guid(5ba4987e892b74233a7ac4498f2344a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_male_rare.asset using Guid(5ba4987e892b74233a7ac4498f2344a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f46e4647313f0726c247b6d80a8e406') in 0.000363167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Scripts/Data/paladinHealer_male_legendary.asset
+  artifactKey: Guid(5bc7d882160574b9b83b8e06e5bcf7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinHealer_male_legendary.asset using Guid(5bc7d882160574b9b83b8e06e5bcf7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2faa522cd42365d6bf96ba48f146b86') in 0.000379042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Scripts/Data/paladinSupport_female_epic.asset
+  artifactKey: Guid(105c61595c1e24c169b35c418f562363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinSupport_female_epic.asset using Guid(105c61595c1e24c169b35c418f562363) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73a66ba3a97750f49db9c5377dc5d86a') in 0.000373292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Scripts/Data/paladinTank_female_mystic.asset
+  artifactKey: Guid(c1f70038527fb448087c4914b0cd9e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Data/paladinTank_female_mystic.asset using Guid(c1f70038527fb448087c4914b0cd9e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fbc996ebbdcfe1eaa590c4f23f9d1d7') in 0.000384792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

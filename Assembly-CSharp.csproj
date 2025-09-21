@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/Data/CharacterData.cs" />
     <Compile Include="Assets/Scripts/Data/Character.cs" />
+    <Compile Include="Assets/Scripts/CharacterDatabase.cs" />
+    <Compile Include="Assets/Scripts/MoveableMapController.cs" />
     <None Include="Assets/UI Toolkit/PvPLobby.uxml" />
     <None Include="Assets/UI Toolkit/CombatScreen.uxml" />
     <None Include="Assets/UI Toolkit/Settings.uxml" />

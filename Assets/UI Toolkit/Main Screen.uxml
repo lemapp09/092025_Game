@@ -2,38 +2,24 @@
     <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
     <Style src="project://database/Assets/UI%20Toolkit/SiteWideStyle.uss?fileID=7433441132597879392&amp;guid=cedbededc0dd04939a5b5c0e709bcb6c&amp;type=3#SiteWideStyle" />
     <ui:VisualElement name="Background" class="Background">
-        <ui:VisualElement name="TopBar" class="TopBar">
-            <ui:VisualElement name="TopLeft" class="TopLeft">
-                <ui:Label text="Name" name="PlayerName" class="PlayerName" />
-            </ui:VisualElement>
-            <ui:VisualElement name="TopCenter" class="TopCenter">
-                <ui:Label text="Currency" name="Currency" class="Currency" />
-            </ui:VisualElement>
-            <ui:VisualElement name="TopRight" class="TopRight">
-                <ui:Label text="Daily Reward" name="DailyReward" class="DailyReward" />
-            </ui:VisualElement>
+        <ui:VisualElement style="flex-grow: 1; align-items: center; -unity-background-scale-mode: scale-to-fit;">
+            <ui:Button text="Player" name="PlayerButton" style="background-image: none; height: 30%; max-height: 30%; width: 80%; max-width: 80%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 48px; -unity-font-style: bold;" />
+            <ui:VisualElement style="flex-grow: 1;" />
         </ui:VisualElement>
-        <ui:VisualElement name="CenterDisplay" class="CenterDisplay">
-            <ui:VisualElement name="HeroGraphic" class="HeroGraphic">
-                <ui:Label text="Place Graphic Here" name="PlaceGraphicHere" class="PlaceGraphicHere" />
-            </ui:VisualElement>
-            <ui:Label text="Event Announcement " name="EventAnnouncement" class="EventAnnouncement" />
+        <ui:VisualElement style="flex-grow: 1;" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:VisualElement name="VerticalSpace" style="flex-grow: 1; height: 28%; max-height: 28%;" />
+            <ui:Button text="Heroes&#10;" name="HeroesButton" style="background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/main04.png?fileID=2800000&amp;guid=b974536fcb8c04ec4962859ce425f995&amp;type=3#main04&quot;); height: 16%; max-height: 16%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 48px; -unity-font-style: bold;" />
+            <ui:Button text="Summon" name="SummonButton" style="background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/main04.png?fileID=2800000&amp;guid=b974536fcb8c04ec4962859ce425f995&amp;type=3#main04&quot;); height: 16%; max-height: 16%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 48px; -unity-font-style: bold;" />
+            <ui:Button text="Shop" name="ShopButton" style="background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/main02.png?fileID=2800000&amp;guid=71c204763c14a441799e695f5603bd7f&amp;type=3#main02&quot;); height: 16%; max-height: 16%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 48px; -unity-font-style: bold;" />
         </ui:VisualElement>
-        <ui:VisualElement name="MainNavigation" class="MainNavigation">
-            <ui:VisualElement name="BottomLeft" class="BottonLeft">
-                <ui:Button text="Heroes" name="HeroesButton" parse-escape-sequences="true" class="HeroesButton" />
+    </ui:VisualElement>
+    <ui:VisualElement name="HeroGraphic" class="HeroGraphic" style="top: 486px;">
+        <ui:VisualElement name="GraphicContainer" style="flex-grow: 1; width: 830px; left: 34px;">
+            <ui:VisualElement name="MapGraphic" style="flex-grow: 1; width: 575px; height: 575px; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/map01c.png?fileID=2800000&amp;guid=321005a7839a74c7390f3fc8cd7847c1&amp;type=3#map01c&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: 201px; left: 127px;">
+                <ui:VisualElement name="MoveableMap" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/map01a.png?fileID=2800000&amp;guid=da7a895854d8a4a06ba40439d3db3ea8&amp;type=3#map01a&quot;); width: 1150px; background-position-x: right 512px; -unity-background-scale-mode: scale-to-fit; left: 30px;" />
             </ui:VisualElement>
-            <ui:VisualElement name="BottomCenter" class="BottomCenter">
-                <ui:Button text="Summon" name="SummonButton" parse-escape-sequences="true" class="SummonButton" />
-            </ui:VisualElement>
-            <ui:VisualElement name="BottomRight" class="BottomRight">
-                <ui:Button text="Shop" name="ShopButton" parse-escape-sequences="true" class="ShopButton" />
-            </ui:VisualElement>
-        </ui:VisualElement>
-        <ui:VisualElement name="UtilityButtons" class="UtilityButtons">
-            <ui:Button text="Settings" name="SettingsButton" parse-escape-sequences="true" class="SettingsButton" />
-            <ui:VisualElement name="Space" style="flex-grow: 1;" />
-            <ui:Button text="Friends" name="FriendsButton" parse-escape-sequences="true" enable-rich-text="false" class="FriendsButtoons" />
+            <ui:VisualElement name="FrameGraphic" style="flex-grow: 1; width: 850px; height: 850px; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/main05.png?fileID=2800000&amp;guid=8013c127a880241cd9bde0ced7e76daf&amp;type=3#main05&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute;" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

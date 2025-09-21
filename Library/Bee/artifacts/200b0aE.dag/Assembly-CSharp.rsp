@@ -420,8 +420,10 @@
 -analyzer:"/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/CharacterDatabase.cs"
 "Assets/Scripts/Data/Character.cs"
 "Assets/Scripts/Data/CharacterData.cs"
+"Assets/Scripts/MoveableMapController.cs"
 -langversion:9.0
 /deterministic
 /optimize+

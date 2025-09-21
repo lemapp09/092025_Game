@@ -4,32 +4,7 @@ VisualElement {
 .Background {
     flex-grow: 1;
     background-color: var(--color-principal);
-}
-
-.TopBar {
-    flex-grow: 1;
-    height: 5.02%;
-    max-height: 5.02%;
-    flex-direction: row;
-}
-
-.TopLeft {
-    flex-grow: 1;
-    width: 20%;
-    max-width: 20%;
-    background-color: var(--color-assistant);
-}
-
-.PlayerName {
-    font-size: 28px;
-    -unity-font-style: bold;
-}
-
-.TopCenter {
-    flex-grow: 1;
-    width: 50%;
-    max-width: 50%;
-    background-color: rgb(61, 61, 61);
+    background-image: url("project://database/Assets/Texture/Front%20Page%20Graphics/main01.png?fileID=2800000&guid=eb5676c4357044113bc4227432709a3e&type=3#main01");
 }
 
 .Currency {
@@ -51,124 +26,18 @@ VisualElement {
     -unity-text-align: upper-center;
 }
 
-.CenterDisplay {
-    flex-grow: 1;
-    height: 58.82%;
-    max-height: 58.82%;
-    align-items: center;
-}
-
 .HeroGraphic {
     flex-grow: 1;
     width: 92.6%;
     max-width: 92.6%;
     height: 72%;
     max-height: 72%;
-    background-color: rgb(207, 163, 163);
-}
-
-.PlaceGraphicHere {
-    font-size: 72px;
-    -unity-text-align: upper-center;
-}
-
-.EventAnnouncement {
-    -unity-font-style: bold;
-    font-size: 72px;
-}
-
-.MainNavigation {
-    flex-grow: 1;
-    height: 26.12%;
-    max-height: 26.12%;
-    flex-direction: row;
-}
-
-.BottonLeft {
-    flex-grow: 1;
-    width: 33%;
-    max-width: 33.3%;
-    background-color: rgb(191, 191, 191);
+    background-color: rgba(207, 163, 163, 0);
     align-items: center;
+    position: absolute;
+    top: 470px;
 }
 
-.HeroesButton {
-    width: 85%;
-    max-width: 85%;
-    border-top-left-radius: 45px;
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    background-color: rgb(207, 55, 42);
-    font-size: 48px;
-    -unity-font-style: bold;
-}
-
-.BottomCenter {
-    flex-grow: 1;
-    width: 33.3%;
-    max-width: 33.3%;
-    background-color: rgb(128, 128, 128);
-    align-items: center;
-}
-
-.SummonButton {
-    width: 85%;
-    max-width: 85%;
-    border-top-left-radius: 45px;
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    background-color: rgb(58, 207, 42);
-    font-size: 48px;
-    -unity-font-style: bold;
-}
-
-.BottomRight {
-    flex-grow: 1;
-    background-color: rgb(235, 235, 235);
-    align-items: center;
-}
-
-.ShopButton {
-    width: 85%;
-    max-width: 85%;
-    border-top-left-radius: 45px;
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    background-color: rgb(207, 113, 42);
-    font-size: 48px;
-    -unity-font-style: bold;
-}
-
-.UtilityButtons {
-    flex-grow: 1;
-    flex-direction: row;
-}
-
-.SettingsButton {
-    width: 45%;
-    max-width: 45%;
-    border-top-left-radius: 45px;
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    background-color: var(--color-accent-4);
-    font-size: 48px;
-    -unity-font-style: bold;
-    color: var(--color-accent-5)
-}
-
-.FriendsButtoons {
-    width: 45%;
-    max-width: 45%;
-    border-top-left-radius: 45px;
-    border-top-right-radius: 45px;
-    border-bottom-right-radius: 45px;
-    border-bottom-left-radius: 45px;
-    background-color: var(--color-accent-4);
-    font-size: 48px;
-    -unity-font-style: bold;
-    color: var(--color-accent-1);
+#MapGraphic {
+    overflow: hidden;
 }

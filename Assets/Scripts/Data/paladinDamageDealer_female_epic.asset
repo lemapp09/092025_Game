@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: paladinDamageDealer_female_epic
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Commander Lyra
+  characterImage: {fileID: 21300000, guid: 553fde3f2426848b2a683727129af5d9, type: 3}
+  gender: 1
+  role: 2
+  rarity: 3
+  baseHealth: 0
+  baseAttack: 0
+  baseDefense: 0
+  characterDescription: A master tactician and a formidable combatant, Commander
+    Lyra leads from the front. She is a living weapon, capable of devastating groups
+    of enemies with powerful, sweeping attacks. Her presence on the battlefield is
+    both a rallying cry for allies and a harbinger of doom for her foes.

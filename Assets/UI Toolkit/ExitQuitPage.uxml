@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="PurpleBar" style="flex-grow: 1; height: 5%; max-height: 5%; background-color: rgb(255, 0, 231);" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="Settings &amp; Utility Screens" name="GroupName" style="font-size: 72px; -unity-font-style: bold;" />
+            <ui:Label text="Exit / Quit Page" name="ScreenType" style="font-size: 72px;" />
+            <ui:Label text="A confirmation screen to prevent accidental exits from the game." name="Description" double-click-selects-word="false" style="font-size: 36px; white-space: pre-wrap;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

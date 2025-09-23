@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="BlueBar" style="flex-grow: 1; height: 5%; max-height: 5%; background-color: rgb(6, 0, 255);" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="Monetization &amp; Aquisition Screens&#10;" name="GroupName" selectable="true" focusable="true" style="font-size: 72px; -unity-font-style: bold; white-space: pre-wrap;" />
+            <ui:Label text="Shop/Gallery" name="ScreenType" triple-click-selects-line="false" style="font-size: 72px;" />
+            <ui:Label text="As you mentioned, this is a space for players to purchase in-game currency, special items, or unique heroes. It&apos;s a key monetization screen." name="Description" triple-click-selects-line="false" selectable="true" focusable="true" style="font-size: 36px; white-space: pre-wrap;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

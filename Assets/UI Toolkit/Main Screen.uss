@@ -1,0 +1,43 @@
+VisualElement {
+}
+
+.Background {
+    flex-grow: 1;
+    background-color: var(--color-principal);
+    background-image: url("project://database/Assets/Texture/Front%20Page%20Graphics/main01.png?fileID=2800000&guid=eb5676c4357044113bc4227432709a3e&type=3#main01");
+}
+
+.Currency {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    -unity-text-align: upper-center;
+    -unity-font-style: bold;
+}
+
+.TopRight {
+    flex-grow: 1;
+    background-color: var(--color-assistant);
+}
+
+.DailyReward {
+    font-size: 28px;
+    color: rgb(255, 254, 254);
+    -unity-font-style: bold;
+    -unity-text-align: upper-center;
+}
+
+.HeroGraphic {
+    flex-grow: 1;
+    width: 92.6%;
+    max-width: 92.6%;
+    height: 72%;
+    max-height: 72%;
+    background-color: rgba(207, 163, 163, 0);
+    align-items: center;
+    position: absolute;
+    top: 470px;
+}
+
+#MapGraphic {
+    overflow: hidden;
+}

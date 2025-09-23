@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="RedBar" style="flex-grow: 1; height: 5%; max-height: 5%; background-color: rgb(255, 0, 0);" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:Label text="Core Gameplay Screen&#10;" name="GroupName" style="font-size: 72px; -unity-font-style: bold;" />
+            <ui:Label text="World Map" name="ScreenType" style="font-size: 72px;" />
+            <ui:Label text="A screen where the player selects a stage or mission to play. For a single-player game, this could be a linear progression of battles against AI opponents." name="Description" style="font-size: 36px; white-space: pre-wrap;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

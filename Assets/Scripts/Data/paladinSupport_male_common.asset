@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: paladinSupport_male_common
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Corin
+  characterImage: {fileID: 21300000, guid: 1ec4e3e08730a4c2b935cbf2a05a7ae7, type: 3}
+  gender: 0
+  role: 3
+  rarity: 0
+  baseHealth: 800
+  baseAttack: 70
+  baseDefense: 70
+  characterDescription: Corin is a young squire learning the ropes of battlefield
+    support. While his knowledge of tactics is still growing, his enthusiasm and
+    courage are infectious. He can offer basic aid and rally a few allies, making
+    him a dependable, if simple, addition to any squad.

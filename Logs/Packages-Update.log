@@ -108,6 +108,7 @@ The following packages were added:
   com.unity.ugui@2.0.0
   com.unity.xr.legacyinputhelpers@2.1.12
   com.unity.ai.navigation@2.0.9
+<<<<<<< HEAD
 
 === Tue Sep 23 08:39:32 2025
 
@@ -148,3 +149,5 @@ The following packages were added:
   com.unity.modules.xr@1.0.0
   com.unity.modules.accessibility@1.0.0
   com.unity.multiplayer.center@1.0.0
+=======
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613

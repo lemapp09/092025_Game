@@ -1,5 +1,6 @@
 {
   "context": {
+<<<<<<< HEAD
     "projectPath": "C:/Users/Lem/Documents/Unity/092025_Game/Packages",
     "unityVersion": "6000.2.5f1"
   },
@@ -13,16 +14,168 @@
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
       "resolvedPath": "C:\\Users\\Lem\\Documents\\Unity\\092025_Game\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+=======
+    "projectPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Packages",
+    "unityVersion": "6000.2.4f1"
+  },
+  "inputs": [
+    "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Packages/manifest.json",
+    "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Packages/packages-lock.json",
+    "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.2d.sprite@331abd9a1e2f",
+      "fingerprint": "331abd9a1e2ff424a1ef2626e16936071ab7ce3d",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "displayName": "2D Tilemap Editor",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.2d.tilemap@ba4a6b72f451",
+      "fingerprint": "ba4a6b72f4518be32ffa911682e3c1f11de50354",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ads@4.12.0": {
+      "name": "com.unity.ads",
+      "displayName": "Advertisement Legacy",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ads@3bb3d269d51b",
+      "fingerprint": "3bb3d269d51b1ced8f6f203c98bb025578933edd",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "4.12.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ai.navigation@2.0.9": {
+      "name": "com.unity.ai.navigation",
+      "displayName": "AI Navigation",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ai.navigation@5218e4bf7edc",
+      "fingerprint": "5218e4bf7edc04fcad4ed3836c1c41aef334b996",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.9",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.analytics@3.8.1": {
+      "name": "com.unity.analytics",
+      "displayName": "Analytics Library",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.analytics@6cc66d58ac08",
+      "fingerprint": "6cc66d58ac08950316d3b86a26c92187aca1ddb0",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "3.8.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.collab-proxy@2.9.3": {
+      "name": "com.unity.collab-proxy",
+      "displayName": "Unity Version Control",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad",
+      "fingerprint": "ab839cc7d2adf143e5378baf46edc31cbc5d84f7",
+      "editorCompatibility": "2021.3.0f1",
+      "version": "2.9.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.rider@3.0.38": {
+      "name": "com.unity.ide.rider",
+      "displayName": "JetBrains Rider Editor",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ide.rider@1f60b3138684",
+      "fingerprint": "1f60b3138684c97af67aa8d911b1632ba916d29d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "3.0.38",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.23": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ide.visualstudio@198cdf337d13",
+      "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.23",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.multiplayer.center@1.0.0": {
+      "name": "com.unity.multiplayer.center",
+      "displayName": "Multiplayer Center",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
     },
+<<<<<<< HEAD
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.accessibility",
+=======
+    "com.unity.purchasing@5.0.1": {
+      "name": "com.unity.purchasing",
+      "displayName": "In-App Purchasing",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.purchasing@821fd0bcef6f",
+      "fingerprint": "821fd0bcef6f2bf367100b4263df9fb4c1b213b1",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "5.0.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework@1.5.1": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.test-framework@038a2b0cacd2",
+      "fingerprint": "038a2b0cacd25d4e9668f9e0f7612139f5dbee81",
+      "editorCompatibility": "6000.0.44f1",
+      "version": "1.5.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.timeline@1.8.9": {
+      "name": "com.unity.timeline",
+      "displayName": "Timeline",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.timeline@6b9e48457ddb",
+      "fingerprint": "6b9e48457ddb4f64813d77fd77efc79a8f3102ae",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.8.9",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "Unity UI",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ugui@f33505fcd0e6",
+      "fingerprint": "f33505fcd0e66d6f57e0171cfd77214cf3f156d1",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.12": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "displayName": "XR Legacy Input Helpers",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4",
+      "fingerprint": "b7579e86f3b456c909fda6b875fba7ab1eeb1322",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.12",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "displayName": "Accessibility",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -30,7 +183,11 @@
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
       "displayName": "AI",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.ai",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -38,7 +195,11 @@
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
       "displayName": "Android JNI",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.androidjni",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -46,7 +207,11 @@
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
       "displayName": "Animation",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.animation",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -54,7 +219,11 @@
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
       "displayName": "Asset Bundle",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.assetbundle",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -62,7 +231,11 @@
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
       "displayName": "Audio",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.audio",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -70,7 +243,11 @@
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
       "displayName": "Cloth",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.cloth",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -78,7 +255,11 @@
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
       "displayName": "Director",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.director",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -86,7 +267,11 @@
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
       "displayName": "Image Conversion",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.imageconversion",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -94,7 +279,11 @@
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
       "displayName": "IMGUI",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.imgui",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -102,7 +291,11 @@
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
       "displayName": "JSONSerialize",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.jsonserialize",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -110,7 +303,11 @@
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
       "displayName": "Particle System",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.particlesystem",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -118,7 +315,11 @@
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
       "displayName": "Physics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.physics",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -126,7 +327,11 @@
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
       "displayName": "Physics 2D",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.physics2d",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -134,7 +339,11 @@
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
       "displayName": "Screen Capture",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.screencapture",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -142,7 +351,11 @@
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
       "displayName": "Terrain",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.terrain",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -150,7 +363,11 @@
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
       "displayName": "Terrain Physics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.terrainphysics",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -158,7 +375,11 @@
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
       "displayName": "Tilemap",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.tilemap",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -166,7 +387,11 @@
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
       "displayName": "UI",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.ui",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -174,7 +399,11 @@
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
       "displayName": "UIElements",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.uielements",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -182,7 +411,11 @@
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
       "displayName": "Umbra",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.umbra",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -190,7 +423,11 @@
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
       "displayName": "Unity Analytics",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unityanalytics",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -198,7 +435,11 @@
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
       "displayName": "Unity Web Request",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequest",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -206,7 +447,11 @@
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
       "displayName": "Unity Web Request Asset Bundle",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestassetbundle",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -214,7 +459,11 @@
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
       "displayName": "Unity Web Request Audio",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestaudio",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -222,7 +471,11 @@
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
       "displayName": "Unity Web Request Texture",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequesttexture",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -230,7 +483,11 @@
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
       "displayName": "Unity Web Request WWW",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestwww",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -238,7 +495,11 @@
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
       "displayName": "Vehicles",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.vehicles",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -246,7 +507,11 @@
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
       "displayName": "Video",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.video",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -254,7 +519,11 @@
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
       "displayName": "VR",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.vr",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -262,7 +531,11 @@
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
       "displayName": "Wind",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.wind",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -270,7 +543,11 @@
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
       "displayName": "XR",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.xr",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -278,7 +555,11 @@
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
       "displayName": "Subsystems",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.subsystems",
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems",
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -286,10 +567,57 @@
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
       "displayName": "Hierarchy Core",
+<<<<<<< HEAD
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.5f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
+=======
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/6000.2.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.ext.nunit@031a54704bff",
+      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.services.core@1.14.0": {
+      "name": "com.unity.services.core",
+      "displayName": "Services Core",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.services.core@9e81a5e38245",
+      "fingerprint": "9e81a5e382457b799480b311ce51187be99abbbf",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.14.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.services.analytics@6.1.0": {
+      "name": "com.unity.services.analytics",
+      "displayName": "Analytics",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.services.analytics@10a9ca5d5622",
+      "fingerprint": "10a9ca5d56226d26b71614c3ee36a91aaa253b96",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "6.1.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.1": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "displayName": "Newtonsoft Json",
+      "resolvedPath": "/Volumes/Alternate_Mac_HD/Unity/092025_Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@74deb55db2a0",
+      "fingerprint": "74deb55db2a0c29ddfda576608bcb86abbd13ee6",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.1",
+      "source": "registry",
+      "testable": false
+>>>>>>> 9cd61920910a84f83e8c229427123a1542460613
     }
   }
 }

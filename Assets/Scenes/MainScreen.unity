@@ -421,49 +421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a3154a8bfcc1475fb4214858fbce844, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabase
-  allCharacters:
-  - {fileID: 11400000, guid: 93f9a3b372ab1404f8d99fd730ae62c3, type: 2}
-  - {fileID: 11400000, guid: 7c8f108af9e1f4258ad1e813bfb4e58e, type: 2}
-  - {fileID: 11400000, guid: f52a977b02ade4cb38c78df5b0bcae2b, type: 2}
-  - {fileID: 11400000, guid: 8bb6689fc759c4eed9a4fcbc284d300d, type: 2}
-  - {fileID: 11400000, guid: 865e2939a930a4e9e9bfb922a7cd133a, type: 2}
-  - {fileID: 11400000, guid: 0d727d0d5419143438f59c78dc068513, type: 2}
-  - {fileID: 11400000, guid: afc22b8bb70374e6da4d4a01af96bff4, type: 2}
-  - {fileID: 11400000, guid: 9ccf1bc55a5c0482fbd17436f078015b, type: 2}
-  - {fileID: 11400000, guid: 48b9c09a23fa542cd915b6431c5a9040, type: 2}
-  - {fileID: 11400000, guid: c96e2b3ddb02f43368f983de9d32b2a8, type: 2}
-  - {fileID: 11400000, guid: 6e732fd620bd34c48a388ef169a94d1c, type: 2}
-  - {fileID: 11400000, guid: 8d2fb15d063d84c008374fb25cb0d6f7, type: 2}
-  - {fileID: 11400000, guid: bb05fb201d5c442b0acfcc73a6afcd7a, type: 2}
-  - {fileID: 11400000, guid: 1f7b134af985c49188bb8f7c2bd45a29, type: 2}
-  - {fileID: 11400000, guid: 5c98facb9ffb24244b2e09c51f41e548, type: 2}
-  - {fileID: 11400000, guid: e47f5390e39ad429a8a8765dc3c1016b, type: 2}
-  - {fileID: 11400000, guid: c34e0bba050a04fc89d29b0822848285, type: 2}
-  - {fileID: 11400000, guid: 5bc7d882160574b9b83b8e06e5bcf7c3, type: 2}
-  - {fileID: 11400000, guid: 7381ac07bee224b9090a6c1460041aae, type: 2}
-  - {fileID: 11400000, guid: 3a605258408f64a0da27172165d546bd, type: 2}
-  - {fileID: 11400000, guid: 5685cdf6741f2423a8a063f27571105c, type: 2}
-  - {fileID: 11400000, guid: 105c61595c1e24c169b35c418f562363, type: 2}
-  - {fileID: 11400000, guid: 21c736cda60d447e08332f481b890adc, type: 2}
-  - {fileID: 11400000, guid: 6095b8994afc94c0fa07648d5dad0ddf, type: 2}
-  - {fileID: 11400000, guid: 3b1408999b5a340b69bb3b253e98c11d, type: 2}
-  - {fileID: 11400000, guid: b5d6bedc874a34a81b45761a937638cb, type: 2}
-  - {fileID: 11400000, guid: 454d64a5d392a4d558dc0720dee99c59, type: 2}
-  - {fileID: 11400000, guid: e7d13e0b87fd4472bb76e67abb6dacbf, type: 2}
-  - {fileID: 11400000, guid: b9c694ef509cd4adb8c6fdb8ce28e09b, type: 2}
-  - {fileID: 11400000, guid: 904dbac24881c4af8a87cef3040eff3e, type: 2}
-  - {fileID: 11400000, guid: 60b895ddddf154adcaa10631e62feaca, type: 2}
-  - {fileID: 11400000, guid: f7fcd59eaf71e4f40b41e1144609c970, type: 2}
-  - {fileID: 11400000, guid: b6036e71a2c714817903c32f559ba595, type: 2}
-  - {fileID: 11400000, guid: c1f70038527fb448087c4914b0cd9e40, type: 2}
-  - {fileID: 11400000, guid: d86ef3c05045e4d298fc679e842a59bd, type: 2}
-  - {fileID: 11400000, guid: 48ec5066e8d3b4f3a8fdc3d5d57f60a0, type: 2}
-  - {fileID: 11400000, guid: c2694482da6b846068b845db5a82cff6, type: 2}
-  - {fileID: 11400000, guid: ce68b5dfd41b6454d90226b963fef388, type: 2}
-  - {fileID: 11400000, guid: 7f80347a2174b4fd7928a5c4cac58cf8, type: 2}
-  - {fileID: 11400000, guid: 5e387c447322644c1a6c18534920bd14, type: 2}
-  - {fileID: 11400000, guid: 5ba4987e892b74233a7ac4498f2344a4, type: 2}
-  - {fileID: 11400000, guid: 6a81d7f9ea844434d868cd32b455957d, type: 2}
+  allCharacters: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

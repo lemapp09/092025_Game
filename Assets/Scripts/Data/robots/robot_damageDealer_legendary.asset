@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_damageDealer_legendary
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: 12f3a269b29fbba4cb35db9459f65795, type: 3}
   gender: 0
   role: 2
   rarity: 4

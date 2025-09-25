@@ -1,7 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableForge.Editor", "TableForge.Editor.csproj", "{84de4c33-1d8d-e99b-85a4-a93f45dbbfee}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b4409666-a73c-43be-b410-e934ed1668c5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableForge.Demo", "TableForge.Demo.csproj", "{05c60a1e-22a5-2fb1-0a9f-a1a2f96203e1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableForge.Runtime", "TableForge.Runtime.csproj", "{b92117c8-fadb-7a8f-e25a-ea5601144caf}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{d787b195-b42b-aadb-ea86-9b49580aa1c6}"
 EndProject
@@ -10,8 +16,14 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84de4c33-1d8d-e99b-85a4-a93f45dbbfee}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84de4c33-1d8d-e99b-85a4-a93f45dbbfee}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{b4409666-a73c-43be-b410-e934ed1668c5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{b4409666-a73c-43be-b410-e934ed1668c5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05c60a1e-22a5-2fb1-0a9f-a1a2f96203e1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05c60a1e-22a5-2fb1-0a9f-a1a2f96203e1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b92117c8-fadb-7a8f-e25a-ea5601144caf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b92117c8-fadb-7a8f-e25a-ea5601144caf}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{d787b195-b42b-aadb-ea86-9b49580aa1c6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{d787b195-b42b-aadb-ea86-9b49580aa1c6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_support_rare 2
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: 9a6692e559ebc2f4ba1f585e7c0feb4a, type: 3}
   gender: 0
   role: 3
   rarity: 2

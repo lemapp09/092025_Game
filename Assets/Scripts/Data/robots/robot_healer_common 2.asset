@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_healer_common 2
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: 5d4dc3c768831914ca6a4e41072a8fea, type: 3}
   gender: 0
   role: 1
   rarity: 0

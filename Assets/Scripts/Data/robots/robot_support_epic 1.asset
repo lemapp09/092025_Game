@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_support_epic 1
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: 2fff5fe757d71a4478d135f8d9524bf4, type: 3}
   gender: 0
   role: 3
   rarity: 3

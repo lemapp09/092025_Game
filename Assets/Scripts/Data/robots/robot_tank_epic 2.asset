@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_tank_epic 2
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: 12d3082d60d58fa47b36699a79c7b31d, type: 3}
   gender: 0
   role: 0
   rarity: 3

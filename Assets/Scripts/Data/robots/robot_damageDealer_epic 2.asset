@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: robot_damageDealer_epic 2
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: 
-  characterImage: {fileID: 0}
+  characterImage: {fileID: 21300000, guid: ab95e6cadfd38f644b0c6edd07ddd3fd, type: 3}
   gender: 0
   role: 2
   rarity: 3

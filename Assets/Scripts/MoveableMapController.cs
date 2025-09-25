@@ -1,11 +1,12 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 using System.Collections;
+using UnityEngine.Serialization;
 
 public class MoveableMapController : MonoBehaviour
 {
     // The UIDocument that contains the UI
-    public UIDocument uiDocument;
+    [FormerlySerializedAs("uiDocument")] public UIDocument _uiDocument;
     
     // The Visual Element to be animated
     private VisualElement _moveableMap;
@@ -14,17 +15,20 @@ public class MoveableMapController : MonoBehaviour
     private const float _slideDistance = 575f;
     private const float _animationDuration = 8.0f; // Duration in seconds
     
+    // The curve to control the animation easing
+    [FormerlySerializedAs("easingCurve")] public AnimationCurve _easingCurve;
+    
     void Start()
     {
         // Check if the UIDocument is assigned
-        if (uiDocument == null)
+        if (_uiDocument == null)
         {
             Debug.LogError("UIDocument is not assigned. Please assign it in the Inspector.");
             return;
         }
 
         // Get the root VisualElement
-        var root = uiDocument.rootVisualElement;
+        var root = _uiDocument.rootVisualElement;
 
         // Locate the MoveableMap Visual Element by its name
         _moveableMap = root.Q<VisualElement>("MoveableMap");
@@ -58,12 +62,18 @@ public class MoveableMapController : MonoBehaviour
 
         while (currentTime < duration)
         {
-            // Calculate the new offset based on a linear interpolation
-            float newOffset = Mathf.Lerp(startOffset, endOffset, currentTime / duration);
-            
+            // Calculate the progress of the animation (0 to 1)
+            float progress = currentTime / duration;
+        
+            // Sample the easing curve at the current progress
+            float easedProgress = _easingCurve.Evaluate(progress);
+
+            // Calculate the new offset based on the eased progress
+            float newOffset = Mathf.Lerp(startOffset, endOffset, easedProgress);
+        
             // Apply the new offset to the style of the Visual Element
             _moveableMap.style.left = newOffset;
-            
+        
             currentTime += Time.deltaTime;
             yield return null; // Wait for the next frame
         }

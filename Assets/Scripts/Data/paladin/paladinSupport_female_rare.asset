@@ -16,7 +16,7 @@ MonoBehaviour:
   characterImage: {fileID: 21300000, guid: c5446d800c22841a09065a637efd3896, type: 3}
   gender: 1
   role: 3
-  rarity: 3
+  rarity: 2
   baseHealth: 1200
   baseAttack: 100
   baseDefense: 100

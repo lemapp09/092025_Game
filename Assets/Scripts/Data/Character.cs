@@ -46,8 +46,8 @@ public class Character
 // New Enum for Gender
 public enum CharacterGender
 {
-    PaladinMale = 0,
-    PaladinFemale = 1,
+    Male = 0,
+    Female = 1,
     Plants = 2, // For characters without a clearly defined gender
     Monsters = 3,    // For monsters, beasts, or non-humanoids
     Robots = 4,     // For robots or constructs

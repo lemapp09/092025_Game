@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1500
   baseAttack: 280
   baseDefense: 130
+  tier: 0
   characterDescription: Sir Gideon is a paragon of martial prowess, a figure of awe
     and fear. Wielding a sword said to be forged in the heart of a star, his strikes
     can cleave mountains. He is the embodiment of righteous might, and few can stand

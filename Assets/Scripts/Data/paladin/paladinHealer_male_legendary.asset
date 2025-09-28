@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 2200
   baseAttack: 110
   baseDefense: 130
+  tier: 0
   characterDescription: Aurelius is a living legend, a celestial being who descended
     to aid mortals. His healing power is so vast it is said he can restore life itself.
     He is a resplendent force of renewal, and his presence on the battlefield guarantees

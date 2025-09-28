@@ -20,4 +20,5 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 3
   characterDescription: 

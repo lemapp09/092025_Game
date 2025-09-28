@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1000
   baseAttack: 180
   baseDefense: 80
+  tier: 0
   characterDescription: Ronan is a blur of motion on the battlefield, a whirlwind
     of blades and righteous fury. He specializes in overwhelming his opponents with
     a flurry of attacks, his agility allowing him to bypass defenses and land critical

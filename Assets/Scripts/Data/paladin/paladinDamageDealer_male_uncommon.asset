@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 850
   baseAttack: 150
   baseDefense: 65
+  tier: 0
   characterDescription: A grim and focused warrior, Fenris prefers to let his blade
     do the talking. He moves with a predatory grace, striking with deadly precision
     before his enemies even know they are in danger. He is a testament to the old

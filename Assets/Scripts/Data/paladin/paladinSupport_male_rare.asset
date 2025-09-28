@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1200
   baseAttack: 100
   baseDefense: 100
+  tier: 0
   characterDescription: Arion is a revered elder and a master of ancient battle rites.
     His wisdom is his greatest weapon; he can inspire his allies with sagely advice
     and protect them with powerful blessings. He stands as a beacon of hope, his

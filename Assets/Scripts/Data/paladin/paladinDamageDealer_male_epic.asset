@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1200
   baseAttack: 220
   baseDefense: 100
+  tier: 0
   characterDescription: A master tactician and a formidable combatant, Commander
     Orion leads from the front. He is a living weapon, capable of devastating groups
     of enemies with powerful, sweeping attacks. His presence on the battlefield is

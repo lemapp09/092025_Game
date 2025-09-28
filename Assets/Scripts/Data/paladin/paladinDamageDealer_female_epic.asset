@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 0
   characterDescription: A master tactician and a formidable combatant, Commander
     Lyra leads from the front. She is a living weapon, capable of devastating groups
     of enemies with powerful, sweeping attacks. Her presence on the battlefield is

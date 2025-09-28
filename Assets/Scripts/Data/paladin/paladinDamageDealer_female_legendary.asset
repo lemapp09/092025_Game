@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 0
   characterDescription: Lady Gideon is a paragon of martial prowess, a figure of
     awe and fear. Wielding a sword said to be forged in the heart of a star, her
     strikes can cleave mountains. She is the embodiment of righteous might, and few

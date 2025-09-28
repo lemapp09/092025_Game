@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1000
   baseAttack: 85
   baseDefense: 85
+  tier: 0
   characterDescription: A former scout and strategist, Brynna excels at analyzing
     enemy movements and spotting weaknesses. She can provide vital information and
     tactical advantages to her teammates, turning the tide of a skirmish with a single,

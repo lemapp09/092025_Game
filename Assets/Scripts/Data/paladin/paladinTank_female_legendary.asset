@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 2800
   baseAttack: 160
   baseDefense: 220
+  tier: 0
   characterDescription: Cassandra is a legend in her own time. She is said to have
     survived a battle that no one else could, earning her the title of "the Unbroken."
     Her resolve is absolute, and her unwavering defense is a monument to her unyielding

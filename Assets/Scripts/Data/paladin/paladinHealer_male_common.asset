@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 900
   baseAttack: 50
   baseDefense: 60
+  tier: 0
   characterDescription: A kind-hearted acolyte who has just begun his journey. Alaric
     may not have mastered the divine arts, but his compassion is a beacon of hope
     on the battlefield. His gentle touch can mend wounds and bring a flicker of light

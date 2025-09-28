@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 2200
   baseAttack: 130
   baseDefense: 170
+  tier: 0
   characterDescription: A noble knight from a legendary order, Lady Seraphina is
     a bulwark of divine will. Her holy armor glows faintly, and her presence fortifies
     the spirits of her allies. She is a living fortress, capable of absorbing a seemingly

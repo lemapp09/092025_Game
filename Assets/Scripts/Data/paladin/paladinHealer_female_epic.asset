@@ -14,12 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Celeste, the Divine
   characterImage: {fileID: 21300000, guid: df5cdbcc50e564604be16f884b80f6b0, type: 3}
-  gender: 0
+  gender: 1
   role: 1
   rarity: 3
   baseHealth: 1800
   baseAttack: 90
   baseDefense: 110
+  tier: 0
   characterDescription: Celeste is a revered priestess of the highest order, known
     for her boundless restorative power. She can call upon the light itself to cleanse
     the battlefield, dispelling dark magic and bringing back allies from the brink

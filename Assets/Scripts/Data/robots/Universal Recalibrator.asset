@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Universal Recalibrator
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: Universal Recalibrator
+  characterImage: {fileID: 21300000, guid: c797c0d6144d87749943ef132ca5689e, type: 3}
+  gender: 4
+  role: 1
+  rarity: 5
+  baseHealth: 180
+  baseAttack: 180
+  baseDefense: 140
+  tier: 0
+  characterDescription: An omnipotent repair unit capable of rewriting the very laws
+    of physics to restore any ally to perfect operational status, no matter the damage.

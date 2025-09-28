@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1500
   baseAttack: 120
   baseDefense: 120
+  tier: 0
   characterDescription: A noble born and a gifted commander, Lord Eamon carries a
     banner that rallies the spirits of all who see it. He is a genius on the battlefield,
     capable of orchestrating complex maneuvers and providing powerful, sweeping buffs

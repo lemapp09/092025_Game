@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1200
   baseAttack: 80
   baseDefense: 100
+  tier: 0
   characterDescription: A steadfast soldier with a heart of gold, Theron is the shield
     of the common folk. He may lack the legendary prowess of a more seasoned warrior,
     but his courage is unwavering, and he will stand his ground to protect his allies.

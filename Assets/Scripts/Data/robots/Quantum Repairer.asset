@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Quantum Repairer
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: Quantum Repairer
+  characterImage: {fileID: 21300000, guid: 60de560295b6c8a419681869e444be02, type: 3}
+  gender: 4
+  role: 1
+  rarity: 2
+  baseHealth: 105
+  baseAttack: 105
+  baseDefense: 80
+  tier: 0
+  characterDescription: An advanced repair unit that uses quantum entanglement to
+    instantly restore complex systems and structural integrity.

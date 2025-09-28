@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 2800
   baseAttack: 160
   baseDefense: 220
+  tier: 0
   characterDescription: Darius is a myth made flesh. His very presence commands respect
     and instills fear in his enemies. Legends tell of him holding a castle gate against
     an entire army, earning his title as the Indomitable. He is a living monument

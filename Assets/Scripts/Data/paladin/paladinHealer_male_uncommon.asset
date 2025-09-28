@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1100
   baseAttack: 60
   baseDefense: 70
+  tier: 0
   characterDescription: Valen is a seasoned battlefield medic, his healing gifts
     honed through years of experience. He is quiet and efficient, weaving through
     the chaos of combat to provide aid where it is most needed. He understands that

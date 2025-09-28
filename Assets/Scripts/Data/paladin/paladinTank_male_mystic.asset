@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 3500
   baseAttack: 200
   baseDefense: 280
+  tier: 0
   characterDescription: "Aegis is no mere mortal; he is a celestial guardian. Forged
     from starlight and pure resolve, his form is an impenetrable force of nature.
     He does not simply block attacks\u2014he renders them harmless, radiating a protective

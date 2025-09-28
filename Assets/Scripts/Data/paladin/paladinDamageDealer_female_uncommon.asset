@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 0
   characterDescription: A grim and focused warrior, Kira prefers to let her blade
     do the talking. She moves with a predatory grace, striking with deadly precision
     before her enemies even know they are in danger. She is a testament to the old

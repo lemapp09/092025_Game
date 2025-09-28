@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 800
   baseAttack: 70
   baseDefense: 70
+  tier: 0
   characterDescription: A young squire learning the ropes of battlefield support.
     While her knowledge of tactics is still growing, her enthusiasm and courage are
     infectious. She can offer basic aid and rally a few allies, making her a dependable,

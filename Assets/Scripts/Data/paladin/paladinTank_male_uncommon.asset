@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1500
   baseAttack: 95
   baseDefense: 120
+  tier: 0
   characterDescription: A veteran of many skirmishes, Roric has learned the art of
     war through hard-won experience. His armor is battered, his face scarred, but
     he possesses a quiet confidence that inspires those who fight alongside him.

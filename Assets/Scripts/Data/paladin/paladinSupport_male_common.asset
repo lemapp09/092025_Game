@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 800
   baseAttack: 70
   baseDefense: 70
+  tier: 0
   characterDescription: Corin is a young squire learning the ropes of battlefield
     support. While his knowledge of tactics is still growing, his enthusiasm and
     courage are infectious. He can offer basic aid and rally a few allies, making

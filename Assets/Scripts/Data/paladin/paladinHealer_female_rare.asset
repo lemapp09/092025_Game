@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1400
   baseAttack: 75
   baseDefense: 90
+  tier: 0
   characterDescription: "A cloistered nun who ventured out to help those in need.
     Sister Isolde\u2019s healing is as much a testament to her unwavering faith as
     it is to her power. Her touch can not only mend the body but also soothe the

@@ -20,8 +20,9 @@ MonoBehaviour:
   baseHealth: 1800
   baseAttack: 150
   baseDefense: 150
+  tier: 0
   characterDescription: "Valerius is a celestial strategist, said to be a chosen
     one of the gods. His gaze can see all possibilities on the battlefield, and his
-    every command is a guaranteed step toward victory. He doesn't simply support
+    every command is a guaranteed step toward victory. He doesn\"t simply support
     his allies\u2014he elevates them to a new plane of power, making them truly legendary
     in their own right."

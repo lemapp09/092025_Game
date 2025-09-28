@@ -24,7 +24,7 @@ public class Character
     public int currentHealth;
 
     // Constructor to initialize a new character
-    public Character(string name, Sprite image, CharacterGender characterGender, CharacterRole characterRole, Rarity characterRarity)
+    public Character(string name, Sprite image, CharacterGender characterGender, CharacterRole characterRole, Rarity characterRarity, int tier)
     {
         characterName = name;
         characterImage = image;
@@ -32,6 +32,7 @@ public class Character
         role = characterRole;
         rarity = characterRarity;
         level = 1;
+        tier = 1;
     }
 
     // A method to calculate a character's total health, including level progression
@@ -45,29 +46,29 @@ public class Character
 // New Enum for Gender
 public enum CharacterGender
 {
-    Male,
-    Female,
-    Androgynous, // For characters without a clearly defined gender
-    Creature,    // For monsters, beasts, or non-humanoids
-    Machine,     // For robots or constructs
-    None         // For entities that have no gender
+    PaladinMale = 0,
+    PaladinFemale = 1,
+    Plants = 2, // For characters without a clearly defined gender
+    Monsters = 3,    // For monsters, beasts, or non-humanoids
+    Robots = 4,     // For robots or constructs
+    Insects = 5         // For entities that have no gender
 }
 
 // Existing Enums for Roles and Rarity
 public enum CharacterRole
 {
-    Tank,
-    Healer,
-    DamageDealer,
-    Support
+    Tank = 0,
+    Healer = 1,
+    DamageDealer = 2,
+    Support = 3
 }
 
 public enum Rarity
 {
-    Common,
-    Uncommon,
-    Rare,
-    Epic,
-    Legendary,
-    Mythic
+    Common = 0,
+    Uncommon = 1,
+    Rare = 2,
+    Epic = 3,
+    Legendary = 4,
+    Mythic = 5
 }

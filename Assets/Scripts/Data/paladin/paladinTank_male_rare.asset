@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1800
   baseAttack: 110
   baseDefense: 145
+  tier: 0
   characterDescription: Aldric is a master of defensive combat, his every movement
     a lesson in patience and resilience. Known for his unbreakable will, he can withstand
     barrages of blows that would fell lesser warriors, making him a true bastion

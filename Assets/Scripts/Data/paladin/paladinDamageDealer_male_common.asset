@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 700
   baseAttack: 120
   baseDefense: 50
+  tier: 0
   characterDescription: "A young swordsman with a fiery spirit. Jarek\u2019s passion
     for combat is matched only by his eagerness to prove himself. He may be inexperienced,
     but his fierce dedication and swift blade make him a valuable addition to any

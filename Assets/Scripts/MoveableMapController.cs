@@ -16,7 +16,7 @@ public class MoveableMapController : MonoBehaviour
     private const float _animationDuration = 8.0f; // Duration in seconds
     
     // The curve to control the animation easing
-    [FormerlySerializedAs("easingCurve")] public AnimationCurve _easingCurve;
+    public AnimationCurve _easingCurve;
     
     void Start()
     {

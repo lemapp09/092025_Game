@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 0
   characterDescription: "A young swordswoman with a fiery spirit. Jora\u2019s passion
     for combat is matched only by her eagerness to prove herself. She may be inexperienced,
     but her fierce dedication and swift blade make her a valuable addition to any

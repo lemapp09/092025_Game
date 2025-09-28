@@ -20,7 +20,8 @@ MonoBehaviour:
   baseHealth: 900
   baseAttack: 50
   baseDefense: 60
-  characterDescription: A kind-hearted acolyte who has just begun her journey. Lyra's
+  tier: 0
+  characterDescription: A kind-hearted acolyte who has just begun her journey. Lyra"s
     compassion is a beacon of hope on the battlefield, and her simple, yet earnest,
     healing touch can mend wounds and bring a flicker of light to even the darkest
     of moments.

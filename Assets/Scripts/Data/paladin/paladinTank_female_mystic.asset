@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 3500
   baseAttack: 200
   baseDefense: 280
+  tier: 0
   characterDescription: The Warden is a primal guardian whose power is drawn from
     the very earth itself. Her form is a fusion of living rock and celestial might,
     and she protects her allies with an impenetrable force field of pure, natural

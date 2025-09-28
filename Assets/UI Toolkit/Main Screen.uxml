@@ -3,7 +3,7 @@
     <Style src="project://database/Assets/UI%20Toolkit/SiteWideStyle.uss?fileID=7433441132597879392&amp;guid=cedbededc0dd04939a5b5c0e709bcb6c&amp;type=3#SiteWideStyle" />
     <ui:VisualElement name="Background" class="Background">
         <ui:VisualElement style="flex-grow: 1; align-items: center; -unity-background-scale-mode: scale-to-fit;">
-            <ui:Button text="Player" name="PlayerButton" style="background-image: none; height: 32%; max-height: 32%; width: 80%; max-width: 80%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 64px; -unity-font-style: bold; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Mindset%20DEMO.ttf?fileID=12800000&amp;guid=de9ae2dbe78294859815c235735c0ede&amp;type=3#Mindset DEMO&quot;); letter-spacing: 5px;" />
+            <ui:Button text="Player" name="PlayerButton" style="background-image: none; height: 32%; max-height: 32%; width: 80%; max-width: 80%; -unity-background-scale-mode: scale-to-fit; background-color: rgba(188, 188, 188, 0); font-size: 64px; -unity-font-style: bold; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Mindset%20DEMO.ttf?fileID=12800000&amp;guid=de9ae2dbe78294859815c235735c0ede&amp;type=3#Mindset DEMO&quot;); letter-spacing: 5px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
             <ui:VisualElement style="flex-grow: 1;" />
         </ui:VisualElement>
         <ui:VisualElement style="flex-grow: 1;" />

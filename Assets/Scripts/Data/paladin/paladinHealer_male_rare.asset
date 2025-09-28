@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1400
   baseAttack: 75
   baseDefense: 90
+  tier: 0
   characterDescription: "A cloistered monk who ventured out into the world to help
     those in need. Brother Elian\u2019s healing is as much a testament to his faith
     as it is to his power. His touch can not only mend the body but also soothe the

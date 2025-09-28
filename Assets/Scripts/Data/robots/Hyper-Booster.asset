@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Hyper-Booster
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: Hyper-Booster
+  characterImage: {fileID: 21300000, guid: 9a6692e559ebc2f4ba1f585e7c0feb4a, type: 3}
+  gender: 4
+  role: 3
+  rarity: 2
+  baseHealth: 98
+  baseAttack: 98
+  baseDefense: 72
+  tier: 3
+  characterDescription: A robotic platform designed to inject allies with temporary
+    performance-enhancing nanites, greatly increasing their speed and attack power.

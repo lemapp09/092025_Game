@@ -20,8 +20,9 @@ MonoBehaviour:
   baseHealth: 1800
   baseAttack: 150
   baseDefense: 150
+  tier: 0
   characterDescription: "    Thalia is a celestial strategist, said to be a chosen
     one of the gods. Her gaze can see all possibilities on the battlefield, and her
-    every command is a guaranteed step toward victory. She doesn't simply support
+    every command is a guaranteed step toward victory. She doesn\"t simply support
     her allies\u2014she elevates them to a new plane of power, making them truly
     legendary in their own right.\n\n"

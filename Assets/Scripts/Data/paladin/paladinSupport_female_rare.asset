@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1200
   baseAttack: 100
   baseDefense: 100
+  tier: 0
   characterDescription: Sage Annelise is a revered elder and a master of ancient
     battle rites. Her wisdom is her greatest weapon; she can inspire her allies with
     sagely advice and protect them with powerful blessings. She stands as a beacon

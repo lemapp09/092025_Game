@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1800
   baseAttack: 90
   baseDefense: 110
+  tier: 0
   characterDescription: Lucian is a revered priest of the highest order, known for
     his unwavering conviction and boundless restorative power. He can call upon the
     light itself to cleanse the battlefield, dispelling dark magic and bringing back

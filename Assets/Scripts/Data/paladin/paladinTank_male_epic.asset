@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 2200
   baseAttack: 130
   baseDefense: 170
+  tier: 0
   characterDescription: A knight of a royal order, Sir Kaelen is a bulwark of justice
     and discipline. His polished armor reflects not only the sun but also his unshakeable
     faith. He can rally his allies and absorb immense damage, turning the tide of

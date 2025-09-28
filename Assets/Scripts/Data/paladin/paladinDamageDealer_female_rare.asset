@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 0
   baseAttack: 0
   baseDefense: 0
+  tier: 0
   characterDescription: Ronan is a blur of motion on the battlefield, a whirlwind
     of blades and righteous fury. She specializes in overwhelming her opponents with
     a flurry of attacks, her agility allowing her to bypass defenses and land critical

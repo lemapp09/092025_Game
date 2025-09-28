@@ -6,7 +6,7 @@ using UnityEngine;
 public class CharacterData : ScriptableObject
 {
     // Basic character identity
-    public string characterName;
+    public string characterNom;
     public Sprite characterImage;
 
     // Gender
@@ -20,6 +20,7 @@ public class CharacterData : ScriptableObject
     public int baseHealth;
     public int baseAttack;
     public int baseDefense;
+    public int tier;
     
     // Description for flavor text
     [TextArea(3, 10)]

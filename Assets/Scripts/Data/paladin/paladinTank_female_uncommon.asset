@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1500
   baseAttack: 95
   baseDefense: 120
+  tier: 0
   characterDescription: Vespera is a quiet but formidable warrior who has survived
     countless battles. Her armor tells a story of perseverance, and her stoic presence
     on the battlefield inspires a sense of calm resilience in her allies. She is

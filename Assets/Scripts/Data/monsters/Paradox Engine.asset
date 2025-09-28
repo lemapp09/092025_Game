@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Paradox Engine
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: Paradox Engine
+  characterImage: {fileID: 21300000, guid: 3fe05c9f39f12c2498c513f150ccb7a0, type: 3}
+  gender: 3
+  role: 2
+  rarity: 4
+  baseHealth: 135
+  baseAttack: 135
+  baseDefense: 102
+  tier: 3
+  characterDescription: A sentient construct of pure logic and anti-matter, it can
+    unravel the laws of physics to unleash impossible attacks.

@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1000
   baseAttack: 70
   baseDefense: 70
+  tier: 0
   characterDescription: A former scout and strategist, Brennus excels at analyzing
     enemy movements and spotting weaknesses. He can provide vital information and
     tactical advantages to his teammates, turning the tide of a skirmish with a single,

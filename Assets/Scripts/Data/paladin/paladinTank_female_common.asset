@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1200
   baseAttack: 80
   baseDefense: 100
+  tier: 0
   characterDescription: A new recruit with a heart full of courage and a shield made
-    of pure grit. Elara's determination is her greatest weapon, and she stands firm
+    of pure grit. Elara"s determination is her greatest weapon, and she stands firm
     against all threats, eager to prove her worth and protect her newfound comrades.

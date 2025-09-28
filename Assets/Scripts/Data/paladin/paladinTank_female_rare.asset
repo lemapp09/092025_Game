@@ -20,6 +20,7 @@ MonoBehaviour:
   baseHealth: 1800
   baseAttack: 110
   baseDefense: 145
+  tier: 0
   characterDescription: Born of a lineage of guardians, Brienne wields a shield with
     the grace of a dancer and the strength of a mountain. Her technique is flawless,
     and she can deflect blows with an effortless ease that seems almost magical.

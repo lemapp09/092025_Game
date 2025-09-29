@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Terra-Shaper Vine
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1380994225, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 2
+  role: 3
+  rarity: 3
+  baseHealth: 125
+  baseAttack: 125
+  baseDefense: 98
+  tier: 3
+  characterDescription: A powerful, mobile vine system capable of rapidly growing
+    and altering the terrain, creating defensive structures or trapping enemies.

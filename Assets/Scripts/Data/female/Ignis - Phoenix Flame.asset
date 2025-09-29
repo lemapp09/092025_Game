@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Ignis - Phoenix Flame
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1088647975, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 1
+  role: 2
+  rarity: 2
+  baseHealth: 100
+  baseAttack: 100
+  baseDefense: 80
+  tier: 0
+  characterDescription: A legendary pyrokinetic whose flames burn with an otherworldly
+    intensity. Ignis can summon torrents of fire, capable of melting steel and turning
+    legions of foes into ash. She is a force of nature, reborn from the ashes of
+    her past.

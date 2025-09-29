@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Rift-Scarab Devourer
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1012501866, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  gender: 5
+  role: 2
+  rarity: 4
+  baseHealth: 145
+  baseAttack: 145
+  baseDefense: 105
+  tier: 1
+  characterDescription: 'Description: A colossal scarab that can open small spatial
+    rifts, pulling enemies into oblivion or disgorging corrosive, extra-dimensional
+    energy.'

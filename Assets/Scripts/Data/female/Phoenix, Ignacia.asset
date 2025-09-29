@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Phoenix, Ignacia
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -511155783, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 1
+  role: 0
+  rarity: 4
+  baseHealth: 185
+  baseAttack: 185
+  baseDefense: 75
+  tier: 2
+  characterDescription: The 'Flame of Rebirth,' Ignacia is an elemental force that
+    defies death itself. Her legendary power allows her to self-immolate, dealing
+    immense fire damage to all surrounding enemies while becoming temporarily invulnerable.
+    Should she fall, she rises from her own ashes with full health and a massive
+    defensive buff, capable of repeating this cycle once per battle. Her armor is
+    forged from living flame and volcanic rock, constantly radiating intense heat.

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Athena, Pallas
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1284108777, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  gender: 1
+  role: 0
+  rarity: 4
+  baseHealth: 190
+  baseAttack: 190
+  baseDefense: 78
+  tier: 1
+  characterDescription: The 'Goddess of War and Wisdom,' Pallas is the ultimate strategic
+    and defensive force. Her legendary ability grants her total command over enemy
+    targeting, forcing all attacks and abilities onto her for an extended duration
+    while simultaneously boosting her team's damage significantly. She can also deploy
+    an impenetrable Aegis shield that deflects all projectiles and magical attacks
+    for a short period. She wears gleaming, divine armor, wielding a spear and the
+    iconic Gorgon-emblazoned shield.

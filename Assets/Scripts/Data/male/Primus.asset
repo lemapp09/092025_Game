@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Primus
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1826852379, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 0
+  role: 2
+  rarity: 5
+  baseHealth: 130
+  baseAttack: 130
+  baseDefense: 110
+  tier: 0
+  characterDescription: The First Flame, Primus is a primordial entity born from
+    the genesis of existence. He manifests as a being of pure, incandescent energy,
+    wielding a colossal sword forged from a dying star. His every attack unleashes
+    cosmic novas, scorching foes with absolute destructive power that ignores all
+    forms of resistance. He can briefly become a super-nova, consuming everything
+    around him.

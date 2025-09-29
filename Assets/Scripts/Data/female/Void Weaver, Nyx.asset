@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Void Weaver, Nyx
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1380514601, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 1
+  role: 0
+  rarity: 4
+  baseHealth: 195
+  baseAttack: 195
+  baseDefense: 82
+  tier: 3
+  characterDescription: The 'Shadow of the Cosmos,' Nyx is a mysterious entity from
+    beyond mortal understanding. Her legendary ability allows her to tear fissures
+    in reality, pulling all enemies into a void dimension where they take continuous
+    damage and are completely unable to attack or use abilities, while her allies
+    are buffed. She is a master of spatial manipulation and can instantly teleport
+    across the battlefield to absorb threats. Her form is constantly shifting, shrouded
+    in cosmic shadow and starlight, wearing armor that seems to absorb light.

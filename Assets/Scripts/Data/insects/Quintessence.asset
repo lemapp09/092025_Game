@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Quintessence
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1869001992, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 5
+  role: 3
+  rarity: 5
+  baseHealth: 185
+  baseAttack: 185
+  baseDefense: 115
+  tier: 3
+  characterDescription: An enigmatic, multi-faceted beetle believed to be woven from
+    the fabric of reality itself, Quintessence embodies the ultimate support. It
+    can mimic any support ability seen on the battlefield, reflecting it with amplified
+    power, or create a temporary pocket dimension where allies are completely safe
+    and their abilities recharge at an incredible rate.

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Life-Stream Conduit
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -478790893, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 2
+  role: 3
+  rarity: 5
+  baseHealth: 165
+  baseAttack: 165
+  baseDefense: 140
+  tier: 3
+  characterDescription: The direct manifestation of the universe's life-giving force,
+    capable of linking allies to an infinite wellspring of energy, making them virtually
+    unstoppable.

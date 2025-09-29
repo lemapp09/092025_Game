@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Dagny
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -65688847, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  gender: 1
+  role: 0
+  rarity: 1
+  baseHealth: 135
+  baseAttack: 135
+  baseDefense: 48
+  tier: 1
+  characterDescription: Hailing from a remote, iron-clad tribe, Dagny's resilience
+    is legendary. She wields a massive, blunt maul that, despite its defensive nature,
+    can deliver stunning blows. Her unique tribal markings glow faintly when she
+    absorbs heavy damage, signifying her uncommon durability.

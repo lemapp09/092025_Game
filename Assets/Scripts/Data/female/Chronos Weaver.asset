@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Chronos Weaver
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -864157099, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 1
+  role: 1
+  rarity: 4
+  baseHealth: 290
+  baseAttack: 290
+  baseDefense: 190
+  tier: 2
+  characterDescription: The enigmatic master of the timeline itself, Chronos Weaver
+    can meticulously unravel and re-weave the fabric of existence around allies,
+    erasing all damage and preventing future harm. Her control over causality allows
+    for unprecedented protective and restorative abilities.

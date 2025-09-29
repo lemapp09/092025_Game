@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: The Life-Giver
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1345831992, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 1
+  role: 1
+  rarity: 5
+  baseHealth: 350
+  baseAttack: 350
+  baseDefense: 250
+  tier: 0
+  characterDescription: An entity of pure creation, whispered to be the source of
+    all vitality. The Life-Giver doesn't just heal; she imbues allies with an unshakeable
+    connection to the universal life force, rendering them almost impervious to harm
+    and granting them constant, accelerated regeneration. Her touch can birth new
+    life where none existed.

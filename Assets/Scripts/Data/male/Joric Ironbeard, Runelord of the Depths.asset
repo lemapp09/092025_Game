@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Joric Ironbeard, Runelord of the Depths
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1619690814, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 0
+  role: 0
+  rarity: 2
+  baseHealth: 360
+  baseAttack: 360
+  baseDefense: 175
+  tier: 2
+  characterDescription: A master dwarven runecaster and warrior, Joric's ancestral
+    armor is etched with ancient runes of protection and resilience. He stands as
+    an unmoving bastion, his magical defenses shrugging off arcane and physical attacks
+    with equal ease.

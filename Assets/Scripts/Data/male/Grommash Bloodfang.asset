@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Grommash Bloodfang
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -824731116, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 0
+  role: 0
+  rarity: 1
+  baseHealth: 300
+  baseAttack: 300
+  baseDefense: 150
+  tier: 3
+  characterDescription: A fearsome orc Warlord, Grommash earned his name through
+    countless victories and a legendary ability to withstand punishment. He channels
+    primal rage into his defenses, becoming an unstoppable force of nature.

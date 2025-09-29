@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Solar Nectar Flower
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 806982342, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  gender: 2
+  role: 1
+  rarity: 3
+  baseHealth: 125
+  baseAttack: 125
+  baseDefense: 95
+  tier: 1
+  characterDescription: A mythical blossom that stores pure, concentrated solar energy,
+    releasing it in bursts to fully restore allies and purge all negative effects.

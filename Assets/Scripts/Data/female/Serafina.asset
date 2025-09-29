@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Serafina
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 663819551, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 1
+  role: 0
+  rarity: 1
+  baseHealth: 125
+  baseAttack: 125
+  baseDefense: 43
+  tier: 2
+  characterDescription: A temple guardian who channels divine energy, Serafina protects
+    her comrades with sacred barriers and a consecrated greatshield. Her uncommon
+    status is reflected in her ability to briefly heal herself while drawing enemy
+    aggression, ensuring her presence on the front lines. She wears ornate, ceremonial
+    plate armor.

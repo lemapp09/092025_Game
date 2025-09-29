@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Finnengan
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 823742820, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  gender: 0
+  role: 3
+  rarity: 0
+  baseHealth: 110
+  baseAttack: 110
+  baseDefense: 60
+  tier: 1
+  characterDescription: A seasoned tactician whose presence on the battlefield inspires
+    courage and subtly enhances the combat prowess of his companions.

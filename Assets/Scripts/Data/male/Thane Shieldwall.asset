@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Thane Shieldwall
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -694058701, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 0
+  role: 0
+  rarity: 0
+  baseHealth: 240
+  baseAttack: 240
+  baseDefense: 115
+  tier: 2
+  characterDescription: A noble human knight, Thane has dedicated his life to protecting
+    the innocent. His polished shield and unwavering stance inspire confidence in
+    his allies and fear in his enemies.

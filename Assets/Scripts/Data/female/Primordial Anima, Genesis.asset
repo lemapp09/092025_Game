@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Primordial Anima, Genesis
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -109955391, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 1
+  role: 0
+  rarity: 5
+  baseHealth: 250
+  baseAttack: 250
+  baseDefense: 90
+  tier: 0
+  characterDescription: The 'Architect of Existence,' Genesis is a fragment of the
+    universal life force itself, manifesting as a protector. Her mythic power allows
+    her to literally recreate portions of the timeline, preventing all fatal damage
+    to herself and her entire team for a sustained period, effectively resetting
+    crucial battle moments. She can also siphon the life force from enemies to heal
+    allies, making her an unmovable and unkillable anchor. Her form is a majestic,
+    crystalline being, wreathed in nebula and primordial light, wielding a staff
+    that pulses with creation energy.

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: The Cosmic Aegis
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -1521638074, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 0
+  role: 0
+  rarity: 5
+  baseHealth: 800
+  baseAttack: 800
+  baseDefense: 500
+  tier: 0
+  characterDescription: Not a single being, but the collective consciousness of the
+    universe's most ancient and powerful guardians, manifested as a singular, impenetrable
+    entity. The Cosmic Aegis is a living barrier made of pure starlight and primordial
+    energy, capable of absorbing and redirecting cataclysmic forces.

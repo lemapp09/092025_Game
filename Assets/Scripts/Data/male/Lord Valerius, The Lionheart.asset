@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Lord Valerius, The Lionheart
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: -481550725, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 0
+  role: 0
+  rarity: 2
+  baseHealth: 350
+  baseAttack: 350
+  baseDefense: 180
+  tier: 0
+  characterDescription: A legendary paladin, Lord Valerius is a beacon of hope on
+    the battlefield. Clad in enchanted gleaming plate armor, his massive shield pulses
+    with divine energy, providing unparalleled protection and inspiring his allies
+    to heroic feats.

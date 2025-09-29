@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: King Aerion, The Unbroken
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 2071503698, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  gender: 0
+  role: 0
+  rarity: 3
+  baseHealth: 450
+  baseAttack: 450
+  baseDefense: 250
+  tier: 0
+  characterDescription: The legendary monarch and founder of the Aegis Vanguard,
+    King Aerion stands as an indomitable fortress. Wielding the ancient shield 'Aegis'
+    and clad in armor forged from starlight, he can withstand attacks that would
+    shatter mountains, inspiring unyielding courage in all who fight beside him.

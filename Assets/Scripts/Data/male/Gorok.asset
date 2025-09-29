@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Gorok
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1428768085, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  gender: 0
+  role: 2
+  rarity: 1
+  baseHealth: 105
+  baseAttack: 105
+  baseDefense: 60
+  tier: 2
+  characterDescription: A half-orc berserker, Gorok charges into battle with a massive
+    maul, driven by a primal rage. He sacrifices some personal defense for overwhelming
+    power, often ignoring pain to land critical blows.

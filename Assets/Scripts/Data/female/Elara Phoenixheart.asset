@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Elara Phoenixheart
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1104490666, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 1
+  role: 1
+  rarity: 4
+  baseHealth: 260
+  baseAttack: 260
+  baseDefense: 170
+  tier: 3
+  characterDescription: Born from the ashes of forgotten stars, Elara possesses the
+    undying flame of rejuvenation. She can resurrect fallen allies with a burst of
+    cosmic fire, granting them enhanced strength, and her healing touch burns away
+    all impurities and weaknesses.

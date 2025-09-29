@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
+  m_Name: Draxus, The Doomforged Colossus
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterNom: 
+  characterImage: {fileID: 1052864234, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  gender: 0
+  role: 0
+  rarity: 3
+  baseHealth: 470
+  baseAttack: 470
+  baseDefense: 260
+  tier: 3
+  characterDescription: A terrifying orcish general, Draxus is a monstrous amalgamation
+    of flesh and dark magic, encased in armor forged in the heart of a volcano. He
+    thrives on pain, converting incoming damage into raw power and unleashing devastating
+    counter-attacks that shake the very foundations of the battlefield.

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Seraphina Bloom
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Seraphina Bloom
   characterImage: {fileID: -1361409401, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 1
   role: 1

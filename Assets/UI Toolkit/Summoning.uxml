@@ -1,11 +1,21 @@
 <ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <Style src="project://database/Assets/UI%20Toolkit/Main%20Screen.uss?fileID=7433441132597879392&amp;guid=ea091580d1675426ca15f53af2106072&amp;type=3#Main Screen" />
-    <ui:VisualElement style="flex-grow: 1;">
-        <ui:VisualElement name="BlueBar" style="flex-grow: 1; height: 5%; max-height: 5%; background-color: rgb(6, 0, 255);" />
-        <ui:VisualElement style="flex-grow: 1;">
-            <ui:Label text="Monetization &amp; Aquisition Screens&#10;" name="GroupName" parse-escape-sequences="true" style="font-size: 72px; -unity-font-style: bold; white-space: pre-wrap;" />
-            <ui:Label text="Summoning/ Gacha Screen&#10;" name="ScreenType" style="font-size: 72px;" />
-            <ui:Label text="The core of a hero collector game. This is where players use in-game currency to summon new heroes. It should have a dramatic visual effect and a clear display of the summon rates for each rarity tier." name="Description" triple-click-selects-line="false" style="font-size: 36px; white-space: pre-wrap;" />
+    <ui:VisualElement name="Gradient" style="flex-grow: 1; position: absolute; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1715521641&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#SummoningGradient&quot;);" />
+    <ui:VisualElement name="BackgroundFrame" style="flex-grow: 1; position: absolute; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1807081636&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon01&quot;);" />
+    <ui:VisualElement name="Logo" style="flex-grow: 1; position: absolute; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-1232435941&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#AegisVanguard_logo_01&quot;); background-size: cover; width: 33.3%; height: 18%; -unity-background-scale-mode: scale-to-fit; bottom: 33px; right: 152px;" />
+    <ui:VisualElement style="flex-grow: 1; align-items: center;">
+        <ui:VisualElement name="BlankTopSpace" style="flex-grow: 1; height: 3.25%; max-height: 3.25%;" />
+        <ui:Label text="Summoning" name="SummoningTitle" style="width: 100%; height: 3.75%; max-height: 3.75%; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Mindset%20DEMO.ttf?fileID=12800000&amp;guid=de9ae2dbe78294859815c235735c0ede&amp;type=3#Mindset DEMO&quot;); -unity-text-align: middle-center; font-size: 64px; -unity-font-style: bold; letter-spacing: 2px;" />
+        <ui:VisualElement name="SecondTopSpace" style="flex-grow: 1; height: 5.5%; max-height: 5.5%;" />
+        <ui:VisualElement name="FirstRow" style="flex-grow: 1; flex-direction: row; height: 5%; max-height: 5%; width: 85%; max-width: 85%;">
+            <ui:VisualElement name="PlayerAvatar" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1138981771&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon08&quot;); -unity-background-scale-mode: scale-to-fit;">
+                <ui:Label text="Player Name" name="PlayerName" style="position: absolute; right: 77px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Optima.ttc?fileID=12800000&amp;guid=a4d664562f6344ab69986273d2b1c312&amp;type=3#Optima&quot;); font-size: 36px; -unity-text-align: upper-right; width: 75%; top: 17px; color: rgb(255, 255, 255);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="EnergyBar" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=995569403&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon02&quot;); -unity-background-scale-mode: scale-to-fit;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="FirstRow" style="flex-grow: 1; flex-direction: row; height: 5%; max-height: 5%; width: 85%; max-width: 85%;">
+            <ui:VisualElement name="Gems" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-1845387190&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon04&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            <ui:VisualElement name="Gold" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-269017143&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon03&quot;); -unity-background-scale-mode: scale-to-fit;" />
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

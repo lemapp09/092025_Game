@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Chronosynapse
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Chronosynapse
   characterImage: {fileID: 319937292, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 5
   role: 3

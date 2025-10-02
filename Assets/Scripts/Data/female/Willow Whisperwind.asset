@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Willow Whisperwind
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Willow Whisperwind
   characterImage: {fileID: 1754047136, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 1
   role: 3

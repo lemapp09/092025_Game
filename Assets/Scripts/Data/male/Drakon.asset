@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Drakon
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Drakon
   characterImage: {fileID: -1927180312, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
   gender: 0
   role: 2

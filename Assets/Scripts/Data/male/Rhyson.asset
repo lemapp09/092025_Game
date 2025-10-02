@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Rhyson
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Rhyson
   characterImage: {fileID: -1470690687, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 0
   role: 3
@@ -21,6 +21,6 @@ MonoBehaviour:
   baseAttack: 100
   baseDefense: 65
   tier: 3
-  characterDescription: Agile and perceptive, Rhys is an invaluable scout who uses
+  characterDescription: Agile and perceptive, Rhyson is an invaluable scout who uses
     his knowledge of enemy movements to create openings and protect his team from
     unexpected assaults.

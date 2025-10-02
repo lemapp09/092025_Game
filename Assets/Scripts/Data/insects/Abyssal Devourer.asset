@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Abyssal Devourer
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
-  characterImage: {fileID: 0}
+  characterNom: Abyssal Devourer
+  characterImage: {fileID: 1055351668, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 5
   role: 0
   rarity: 3
-  baseHealth: 0
-  baseAttack: 0
-  baseDefense: 0
+  baseHealth: 250
+  baseAttack: 250
+  baseDefense: 140
   tier: 3
   characterDescription: 

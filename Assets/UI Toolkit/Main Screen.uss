@@ -26,6 +26,14 @@ VisualElement {
     -unity-text-align: upper-center;
 }
 
+.mainPageButton{
+    
+}
+
+.mainPageButton:hover {
+    scale: 1.1;
+}
+
 .HeroGraphic {
     flex-grow: 1;
     width: 92.6%;

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Aethelred
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Aethelred
   characterImage: {fileID: -456420068, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 0
   role: 3

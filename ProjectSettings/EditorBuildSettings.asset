@@ -8,5 +8,47 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScreen.unity
     guid: 6d41fd18806834ca794459c4e5aa29fc
+  - enabled: 1
+    path: Assets/Scenes/CombatScreen.unity
+    guid: 5477d43d7b06743bab695f5bae5cfdf2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 7348b13f4a54b48c0a0e76599da15d6a
+  - enabled: 1
+    path: Assets/Scenes/ExitQuit.unity
+    guid: b5feb8dcb0a384064855d281a2a1be85
+  - enabled: 1
+    path: Assets/Scenes/HeroCatalog.unity
+    guid: 1c5744a5e7fd5418daf908a315b5d8ec
+  - enabled: 1
+    path: Assets/Scenes/HeroProfile.unity
+    guid: bb94ab9e77d7e45f1916f726453cf43f
+  - enabled: 1
+    path: Assets/Scenes/Leaderboards.unity
+    guid: 5190b62ccc3a840beb76ff4837d09dda
+  - enabled: 1
+    path: Assets/Scenes/LoginAccount.unity
+    guid: 25bb9d979469049a0aa6e3786f27a7c6
+  - enabled: 1
+    path: Assets/Scenes/PvPLobby.unity
+    guid: 7d1177f3ee52c42e496118ffc5c3a12c
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 1e64cb0dcbcd541d1a845c89f6793f9f
+  - enabled: 1
+    path: Assets/Scenes/ShopGallery.unity
+    guid: e39e698104c5b4414b49860bec3ef3b7
+  - enabled: 1
+    path: Assets/Scenes/Summoning.unity
+    guid: 3b41ae7ab613e4296bed497a366abaf4
+  - enabled: 1
+    path: Assets/Scenes/TeamSelection.unity
+    guid: 90bcf96eecaa24982a6b992e702912cc
+  - enabled: 1
+    path: Assets/Scenes/VictoryDefeatScreen.unity
+    guid: d022a3810563d44efa99b2d09632d593
+  - enabled: 1
+    path: Assets/Scenes/WorldMap.unity
+    guid: b9cf7a9d006b34241a2fc34196ba759a
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

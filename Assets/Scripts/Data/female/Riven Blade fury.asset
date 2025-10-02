@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
-  m_Name: Riven Blade fury
+  m_Name: Riven Blade Fury
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: Riven Blade fury
+  characterNom: Riven Blade Fury
   characterImage: {fileID: -1887915762, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 1
   role: 2

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Gaia's Whisper
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Gaia's Whisper
   characterImage: {fileID: -2133327152, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 5
   role: 3

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
-  m_Name: "\xC6therwing"
+  m_Name: Aetherwing
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Aetherwing
   characterImage: {fileID: 2081732464, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 5
   role: 3

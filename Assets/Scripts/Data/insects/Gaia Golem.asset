@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Gaia Golem
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
-  characterImage: {fileID: 0}
+  characterNom: Gaia Golem
+  characterImage: {fileID: -2020095005, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
   gender: 5
   role: 0
   rarity: 3

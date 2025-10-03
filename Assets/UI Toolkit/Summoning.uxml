@@ -3,7 +3,7 @@
     <ui:VisualElement name="Gradient" style="flex-grow: 1; position: absolute; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1715521641&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#SummoningGradient&quot;);" />
     <ui:VisualElement name="BackgroundFrame" style="flex-grow: 1; position: absolute; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1807081636&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon01&quot;);" />
     <ui:VisualElement name="Logo" style="flex-grow: 1; position: absolute; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-1232435941&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#AegisVanguard_logo_01&quot;); background-size: cover; width: 33.3%; height: 18%; -unity-background-scale-mode: scale-to-fit; bottom: 33px; right: 152px;" />
-    <ui:VisualElement style="flex-grow: 1; align-items: center;">
+    <ui:VisualElement name="MainContainer" style="flex-grow: 1; align-items: center;">
         <ui:VisualElement name="BlankTopSpace" style="flex-grow: 1; height: 3.25%; max-height: 3.25%;" />
         <ui:Label text="Summoning" name="SummoningTitle" style="width: 100%; height: 3.75%; max-height: 3.75%; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Mindset%20DEMO.ttf?fileID=12800000&amp;guid=de9ae2dbe78294859815c235735c0ede&amp;type=3#Mindset DEMO&quot;); -unity-text-align: middle-center; font-size: 64px; -unity-font-style: bold; letter-spacing: 2px;" />
         <ui:VisualElement name="SecondTopSpace" style="flex-grow: 1; height: 5.5%; max-height: 5.5%;" />
@@ -11,11 +11,17 @@
             <ui:VisualElement name="PlayerAvatar" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1138981771&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon08&quot;); -unity-background-scale-mode: scale-to-fit;">
                 <ui:Label text="Player Name" name="PlayerName" style="position: absolute; right: 77px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Optima.ttc?fileID=12800000&amp;guid=a4d664562f6344ab69986273d2b1c312&amp;type=3#Optima&quot;); font-size: 36px; -unity-text-align: upper-right; width: 75%; top: 17px; color: rgb(255, 255, 255);" />
             </ui:VisualElement>
-            <ui:VisualElement name="EnergyBar" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=995569403&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon02&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            <ui:VisualElement name="EnergyBar" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=995569403&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon02&quot;); -unity-background-scale-mode: scale-to-fit;">
+                <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=1203008513&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#EnergyBarFill&quot;); background-size: 65% 34px; left: 0; background-position-x: left 109px;" />
+            </ui:VisualElement>
         </ui:VisualElement>
         <ui:VisualElement name="FirstRow" style="flex-grow: 1; flex-direction: row; height: 5%; max-height: 5%; width: 85%; max-width: 85%;">
-            <ui:VisualElement name="Gems" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-1845387190&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon04&quot;); -unity-background-scale-mode: scale-to-fit;" />
-            <ui:VisualElement name="Gold" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-269017143&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon03&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            <ui:VisualElement name="Gems" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-1845387190&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon04&quot;); -unity-background-scale-mode: scale-to-fit;">
+                <ui:Label text="Gem Amount" name="GemAmount" style="position: absolute; right: 77px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Optima.ttc?fileID=12800000&amp;guid=a4d664562f6344ab69986273d2b1c312&amp;type=3#Optima&quot;); font-size: 36px; -unity-text-align: upper-right; width: 75%; top: 17px; color: rgb(255, 255, 255);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="Gold" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Texture/Front%20Page%20Graphics/SummonSprite.png?fileID=-269017143&amp;guid=0687f5bdcc3f84794953da9d5ef79f1d&amp;type=3#Summon03&quot;); -unity-background-scale-mode: scale-to-fit;">
+                <ui:Label text="Gold  Amount" name="GoldAmount" style="position: absolute; right: 111px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/Optima.ttc?fileID=12800000&amp;guid=a4d664562f6344ab69986273d2b1c312&amp;type=3#Optima&quot;); font-size: 36px; -unity-text-align: upper-right; width: 75%; top: 17px; color: rgb(255, 255, 255);" />
+            </ui:VisualElement>
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>

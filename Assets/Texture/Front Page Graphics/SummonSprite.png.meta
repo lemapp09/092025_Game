@@ -369,7 +369,7 @@ TextureImporter:
         width: 30
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,6 +378,28 @@ TextureImporter:
       bones: []
       spriteID: bd794805150be4fbb835085e03eff5c0
       internalID: 1715521641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyBarFill
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 799
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d8ee525e2d40a6a03fcdfc6325e93
+      internalID: 1203008513
       vertices: []
       indices: 
       edges: []
@@ -397,6 +419,7 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       AegisVanguard_logo_01: -1232435941
+      EnergyBarFill: 1203008513
       Summon01: 1807081636
       Summon02: 995569403
       Summon03: -269017143

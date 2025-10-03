@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Invincible Warden
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Invincible Warden
   characterImage: {fileID: 380511655, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 3
   role: 0

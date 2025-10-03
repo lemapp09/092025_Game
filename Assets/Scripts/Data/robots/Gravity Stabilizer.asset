@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f488a3df77404400a5c27eb94bddffc, type: 3}
   m_Name: Gravity Stabilizer
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
-  characterNom: 
+  characterNom: Gravity Stabilizer
   characterImage: {fileID: -1763436155, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 4
   role: 3

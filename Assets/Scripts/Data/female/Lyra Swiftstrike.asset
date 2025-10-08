@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lyra Swiftstrike
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Lyra Swiftstrike
-  characterImage: {fileID: 2142593009, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: -2319301, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 1
   role: 2
   rarity: 0

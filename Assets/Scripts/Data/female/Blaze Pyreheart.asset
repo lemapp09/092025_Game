@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Blaze Pyreheart
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Blaze Pyreheart
-  characterImage: {fileID: -1284108777, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
+  characterImage: {fileID: -1309752658, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 1
   role: 2
   rarity: 0

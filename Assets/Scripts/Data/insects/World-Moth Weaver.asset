@@ -21,5 +21,5 @@ MonoBehaviour:
   baseAttack: 140
   baseDefense: 100
   tier: 2
-  characterDescription: 'Description: A mythical moth whose wingbeats create destructive
-    hurricanes and whose glowing scales can ignite entire regions into fiery infernos.'
+  characterDescription: A mythical moth whose wingbeats create destructive hurricanes
+    and whose glowing scales can ignite entire regions into fiery infernos.

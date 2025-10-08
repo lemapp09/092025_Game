@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Kaelen Shadowstep
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Kaelen Shadowstep
-  characterImage: {fileID: 1135805431, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  characterImage: {fileID: 655732267, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 1
   role: 3
   rarity: 1

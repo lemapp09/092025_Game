@@ -21,10 +21,10 @@ MonoBehaviour:
   baseAttack: 240
   baseDefense: 88
   tier: 1
-  characterDescription: The 'End of All Things,' Oblivion is an entity born from
-    the entropy of the cosmos. Her mythic ability enables her to create an 'Event
-    Horizon' that completely erases all incoming damage for her and her allies within
-    its radius, while simultaneously dissolving enemy armor and defenses to zero.
-    She can also briefly exist outside of time and space, becoming untargetable and
-    untouchable, only to reappear to devastating effect. Her armor is an abyss-like
-    void, absorbing all light, with a gauntlet that flickers with non-existence.
+  characterDescription: The 'Absolute Null' Oblivion is an entity born from the entropy
+    of the cosmos. Her mythic ability enables her to create an 'Event Horizon' that
+    completely erases all incoming damage for her and her allies within its radius,
+    while simultaneously dissolving enemy armor and defenses to zero. She can also
+    briefly exist outside of time and space, becoming untargetable and untouchable,
+    only to reappear to devastating effect. Her armor is an abyss-like void, absorbing
+    all light, with a gauntlet that flickers with non-existence.

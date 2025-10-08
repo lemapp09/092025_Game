@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Riven Blade Fury
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Riven Blade Fury
-  characterImage: {fileID: -1887915762, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  characterImage: {fileID: 288336139, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 1
   role: 2
   rarity: 0

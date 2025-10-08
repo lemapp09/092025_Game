@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Elysia Lumina
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Elysia Lumina
-  characterImage: {fileID: -1470688734, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: -598650733, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 1
   role: 1
   rarity: 3

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: The Cosmic Aegis
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: The Cosmic Aegis
-  characterImage: {fileID: -1521638074, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: 2112350060, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
   gender: 0
   role: 0
   rarity: 5

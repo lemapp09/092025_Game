@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lumen, Echo of the Infinite
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Lumen, Echo of the Infinite
-  characterImage: {fileID: 288336139, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
+  characterImage: {fileID: -1869244262, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 1
   role: 3
   rarity: 5

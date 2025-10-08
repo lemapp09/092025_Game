@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Ken
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Ken
-  characterImage: {fileID: 2102806496, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  characterImage: {fileID: -226607, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
   gender: 0
   role: 3
   rarity: 3

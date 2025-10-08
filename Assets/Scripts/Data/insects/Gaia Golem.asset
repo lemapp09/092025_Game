@@ -21,4 +21,7 @@ MonoBehaviour:
   baseAttack: 0
   baseDefense: 0
   tier: 2
-  characterDescription: 
+  characterDescription: Gaia Golem is a towering insectoid guardian, formed from
+    ancient moss and hardened chitin, who protects the sacred groves of the world.
+    With each step, she causes the very earth to tremble, reminding all who challenge
+    her of nature's raw power.

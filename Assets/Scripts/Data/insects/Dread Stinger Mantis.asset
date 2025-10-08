@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dread Stinger Mantis
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Dread Stinger Mantis
-  characterImage: {fileID: 1055351668, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: 333467790, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 5
   role: 2
   rarity: 2

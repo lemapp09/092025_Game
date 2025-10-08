@@ -21,6 +21,6 @@ MonoBehaviour:
   baseAttack: 175
   baseDefense: 130
   tier: 0
-  characterDescription: 'Description: The collective consciousness of an intergalactic
-    insectoid empire, capable of manifesting devastating psychic attacks and controlling
-    vast swarms with perfect synchronization.'
+  characterDescription: The collective consciousness of an intergalactic insectoid
+    empire, capable of manifesting devastating psychic attacks and controlling vast
+    swarms with perfect synchronization.

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Grand Mantis Lord
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Grand Mantis Lord
-  characterImage: {fileID: -1426817258, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
+  characterImage: {fileID: -1224902296, guid: 3cc77debf32a34be39233fd6cfd86b68, type: 3}
   gender: 5
   role: 0
   rarity: 2

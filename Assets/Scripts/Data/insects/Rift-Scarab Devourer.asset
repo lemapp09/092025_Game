@@ -21,6 +21,5 @@ MonoBehaviour:
   baseAttack: 145
   baseDefense: 105
   tier: 1
-  characterDescription: 'Description: A colossal scarab that can open small spatial
-    rifts, pulling enemies into oblivion or disgorging corrosive, extra-dimensional
-    energy.'
+  characterDescription: A colossal scarab that can open small spatial rifts, pulling
+    enemies into oblivion or disgorging corrosive, extra-dimensional energy.

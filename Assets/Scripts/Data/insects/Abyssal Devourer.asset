@@ -21,4 +21,8 @@ MonoBehaviour:
   baseAttack: 250
   baseDefense: 140
   tier: 3
-  characterDescription: 
+  characterDescription: "The Abyssal Devourer is a colossal insectoid tank born from
+    the Undergrowth\u2019s depths, its obsidian armor and crystalline maw making
+    it an unyielding bulwark that turns enemy assaults into their own downfall. A
+    living fortress of cunning and hunger, it embodies defense through absorption
+    and silent menace."

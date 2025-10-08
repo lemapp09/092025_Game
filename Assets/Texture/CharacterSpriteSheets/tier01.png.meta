@@ -625,7 +625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect01
+      name: insects01
       rect:
         serializedVersion: 2
         x: 0
@@ -647,7 +647,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect02
+      name: insects02
       rect:
         serializedVersion: 2
         x: 171
@@ -669,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect03
+      name: insects03
       rect:
         serializedVersion: 2
         x: 342
@@ -691,7 +691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect04
+      name: insects04
       rect:
         serializedVersion: 2
         x: 513
@@ -713,7 +713,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect05
+      name: insects05
       rect:
         serializedVersion: 2
         x: 684
@@ -735,7 +735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect06
+      name: insects06
       rect:
         serializedVersion: 2
         x: 855
@@ -757,7 +757,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect07
+      name: insects07
       rect:
         serializedVersion: 2
         x: 1026
@@ -779,7 +779,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect20
+      name: insects20
       rect:
         serializedVersion: 2
         x: 1197
@@ -801,7 +801,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect09
+      name: insects09
       rect:
         serializedVersion: 2
         x: 1368
@@ -823,7 +823,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect10
+      name: insects10
       rect:
         serializedVersion: 2
         x: 1539
@@ -845,7 +845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect11
+      name: insects11
       rect:
         serializedVersion: 2
         x: 1710
@@ -867,7 +867,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect12
+      name: insects12
       rect:
         serializedVersion: 2
         x: 1881
@@ -889,7 +889,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect13
+      name: insects13
       rect:
         serializedVersion: 2
         x: 0
@@ -911,7 +911,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect14
+      name: insects14
       rect:
         serializedVersion: 2
         x: 171
@@ -933,7 +933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect15
+      name: insects15
       rect:
         serializedVersion: 2
         x: 342
@@ -955,7 +955,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect16
+      name: insects16
       rect:
         serializedVersion: 2
         x: 513
@@ -977,7 +977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect17
+      name: insects17
       rect:
         serializedVersion: 2
         x: 686
@@ -999,7 +999,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect18
+      name: insects18
       rect:
         serializedVersion: 2
         x: 855
@@ -1021,7 +1021,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect19
+      name: insects19
       rect:
         serializedVersion: 2
         x: 1026
@@ -1043,7 +1043,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect08
+      name: insects08
       rect:
         serializedVersion: 2
         x: 1197
@@ -1065,7 +1065,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect21
+      name: insects21
       rect:
         serializedVersion: 2
         x: 1368
@@ -1087,7 +1087,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect22
+      name: insects22
       rect:
         serializedVersion: 2
         x: 1539
@@ -1109,7 +1109,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect23
+      name: insects23
       rect:
         serializedVersion: 2
         x: 1710
@@ -1131,7 +1131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: insect24
+      name: insects24
       rect:
         serializedVersion: 2
         x: 1881
@@ -1681,7 +1681,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster01
+      name: monsters01
       rect:
         serializedVersion: 2
         x: 0
@@ -1703,7 +1703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster02
+      name: monsters02
       rect:
         serializedVersion: 2
         x: 171
@@ -1725,7 +1725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster03
+      name: monsters03
       rect:
         serializedVersion: 2
         x: 342
@@ -1747,10 +1747,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster04
+      name: monsters04
       rect:
         serializedVersion: 2
-        x: 513
+        x: 516
         y: 855
         width: 171
         height: 171
@@ -1769,7 +1769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster05
+      name: monsters05
       rect:
         serializedVersion: 2
         x: 684
@@ -1791,7 +1791,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster06
+      name: monsters06
       rect:
         serializedVersion: 2
         x: 855
@@ -1813,7 +1813,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster07
+      name: monsters07
       rect:
         serializedVersion: 2
         x: 1026
@@ -1835,7 +1835,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster08
+      name: monsters08
       rect:
         serializedVersion: 2
         x: 1197
@@ -1857,7 +1857,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster09
+      name: monsters09
       rect:
         serializedVersion: 2
         x: 1368
@@ -1879,7 +1879,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster10
+      name: monsters10
       rect:
         serializedVersion: 2
         x: 1539
@@ -1901,7 +1901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster11
+      name: monsters11
       rect:
         serializedVersion: 2
         x: 1710
@@ -1923,7 +1923,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster12
+      name: monsters12
       rect:
         serializedVersion: 2
         x: 1881
@@ -1945,7 +1945,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster13
+      name: monsters13
       rect:
         serializedVersion: 2
         x: 0
@@ -1967,7 +1967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster14
+      name: monsters14
       rect:
         serializedVersion: 2
         x: 171
@@ -1989,7 +1989,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster15
+      name: monsters15
       rect:
         serializedVersion: 2
         x: 342
@@ -2011,7 +2011,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster16
+      name: monsters16
       rect:
         serializedVersion: 2
         x: 513
@@ -2033,7 +2033,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster17
+      name: monsters17
       rect:
         serializedVersion: 2
         x: 684
@@ -2055,7 +2055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster18
+      name: monsters18
       rect:
         serializedVersion: 2
         x: 855
@@ -2077,7 +2077,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster19
+      name: monsters19
       rect:
         serializedVersion: 2
         x: 1026
@@ -2099,7 +2099,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster20
+      name: monsters20
       rect:
         serializedVersion: 2
         x: 1197
@@ -2121,7 +2121,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster21
+      name: monsters21
       rect:
         serializedVersion: 2
         x: 1368
@@ -2143,7 +2143,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster22
+      name: monsters22
       rect:
         serializedVersion: 2
         x: 1539
@@ -2165,7 +2165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster23
+      name: monsters23
       rect:
         serializedVersion: 2
         x: 1710
@@ -2187,7 +2187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monster24
+      name: monsters24
       rect:
         serializedVersion: 2
         x: 1881
@@ -3304,30 +3304,30 @@ TextureImporter:
       female22: -1869244262
       female23: 1749379967
       female24: -1088647975
-      insect01: -773707282
-      insect02: -1291544436
-      insect03: 1055351668
-      insect04: -344828289
-      insect05: -1433023061
-      insect06: -1167613460
-      insect07: 2081732464
-      insect08: -334851280
-      insect09: 355181337
-      insect10: -735196022
-      insect11: -1818926920
-      insect12: 2032599582
-      insect13: -274305234
-      insect14: -1176458496
-      insect15: -1295085421
-      insect16: -981464891
-      insect17: 319937292
-      insect18: 1663816008
-      insect19: -1741181148
-      insect20: -1116325568
-      insect21: -624682937
-      insect22: -1795675683
-      insect23: 1562709364
-      insect24: 2069924238
+      insects01: -773707282
+      insects02: -1291544436
+      insects03: 1055351668
+      insects04: -344828289
+      insects05: -1433023061
+      insects06: -1167613460
+      insects07: 2081732464
+      insects08: -334851280
+      insects09: 355181337
+      insects10: -735196022
+      insects11: -1818926920
+      insects12: 2032599582
+      insects13: -274305234
+      insects14: -1176458496
+      insects15: -1295085421
+      insects16: -981464891
+      insects17: 319937292
+      insects18: 1663816008
+      insects19: -1741181148
+      insects20: -1116325568
+      insects21: -624682937
+      insects22: -1795675683
+      insects23: 1562709364
+      insects24: 2069924238
       male01: -1938498654
       male02: 1681348389
       male03: -1373179164
@@ -3352,30 +3352,30 @@ TextureImporter:
       male22: 2071503698
       male23: -1826852379
       male24: -1251837810
-      monster01: 366192524
-      monster02: -1797380738
-      monster03: -2099409596
-      monster04: -1552540108
-      monster05: -1872413793
-      monster06: 907935759
-      monster07: 1690740690
-      monster08: 1702654805
-      monster09: -185175330
-      monster10: -1129028802
-      monster11: 796992936
-      monster12: -554190225
-      monster13: 605233392
-      monster14: 492372339
-      monster15: 2141126811
-      monster16: 1752165558
-      monster17: -410816308
-      monster18: 1791942132
-      monster19: -1819794795
-      monster20: 1201821520
-      monster21: 2141129387
-      monster22: 171078619
-      monster23: 1073458084
-      monster24: -1680522717
+      monsters01: 366192524
+      monsters02: -1797380738
+      monsters03: -2099409596
+      monsters04: -1552540108
+      monsters05: -1872413793
+      monsters06: 907935759
+      monsters07: 1690740690
+      monsters08: 1702654805
+      monsters09: -185175330
+      monsters10: -1129028802
+      monsters11: 796992936
+      monsters12: -554190225
+      monsters13: 605233392
+      monsters14: 492372339
+      monsters15: 2141126811
+      monsters16: 1752165558
+      monsters17: -410816308
+      monsters18: 1791942132
+      monsters19: -1819794795
+      monsters20: 1201821520
+      monsters21: 2141129387
+      monsters22: 171078619
+      monsters23: 1073458084
+      monsters24: -1680522717
       plants01: 375847719
       plants02: -806025135
       plants03: -1496108618

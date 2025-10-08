@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lyraeus, Jack of Trades
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Lyraeus, Jack of Trades
-  characterImage: {fileID: -1481744914, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: -226095437, guid: 4c8bbe5db55454526864778c9d225172, type: 3}
   gender: 0
   role: 1
   rarity: 1

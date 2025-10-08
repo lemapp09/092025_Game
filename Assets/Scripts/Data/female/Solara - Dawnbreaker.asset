@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Solara - Dawnbreaker
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterNom: Solara - Dawnbreaker
-  characterImage: {fileID: 1663442786, guid: fe291db546bde48aba5d3104cf0a2dcd, type: 3}
+  characterImage: {fileID: 332843896, guid: 776714214fd4d4b9087101152e6cba1a, type: 3}
   gender: 1
   role: 2
   rarity: 3
